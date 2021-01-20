@@ -1,0 +1,11 @@
+C:\Codes\PCI\PCI-ConsoleApp\PlaidAPICall\bin\Debug\netcoreapp3.1\PlaidAPICall.exe
+C:\Codes\PCI\PCI-ConsoleApp\PlaidAPICall\bin\Debug\netcoreapp3.1\PlaidAPICall.deps.json
+C:\Codes\PCI\PCI-ConsoleApp\PlaidAPICall\bin\Debug\netcoreapp3.1\PlaidAPICall.runtimeconfig.json
+C:\Codes\PCI\PCI-ConsoleApp\PlaidAPICall\bin\Debug\netcoreapp3.1\PlaidAPICall.runtimeconfig.dev.json
+C:\Codes\PCI\PCI-ConsoleApp\PlaidAPICall\bin\Debug\netcoreapp3.1\PlaidAPICall.dll
+C:\Codes\PCI\PCI-ConsoleApp\PlaidAPICall\bin\Debug\netcoreapp3.1\PlaidAPICall.pdb
+C:\Codes\PCI\PCI-ConsoleApp\PlaidAPICall\obj\Debug\netcoreapp3.1\PlaidAPICall.AssemblyInfoInputs.cache
+C:\Codes\PCI\PCI-ConsoleApp\PlaidAPICall\obj\Debug\netcoreapp3.1\PlaidAPICall.AssemblyInfo.cs
+C:\Codes\PCI\PCI-ConsoleApp\PlaidAPICall\obj\Debug\netcoreapp3.1\PlaidAPICall.dll
+C:\Codes\PCI\PCI-ConsoleApp\PlaidAPICall\obj\Debug\netcoreapp3.1\PlaidAPICall.pdb
+C:\Codes\PCI\PCI-ConsoleApp\PlaidAPICall\obj\Debug\netcoreapp3.1\PlaidAPICall.csprojAssemblyReference.cache

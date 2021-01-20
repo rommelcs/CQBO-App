@@ -1,0 +1,10 @@
+C:\Codes\PCI\PCI-ConsoleApp\TestingApp\bin\Debug\netcoreapp3.1\TestingApp.exe
+C:\Codes\PCI\PCI-ConsoleApp\TestingApp\bin\Debug\netcoreapp3.1\TestingApp.deps.json
+C:\Codes\PCI\PCI-ConsoleApp\TestingApp\bin\Debug\netcoreapp3.1\TestingApp.runtimeconfig.json
+C:\Codes\PCI\PCI-ConsoleApp\TestingApp\bin\Debug\netcoreapp3.1\TestingApp.runtimeconfig.dev.json
+C:\Codes\PCI\PCI-ConsoleApp\TestingApp\bin\Debug\netcoreapp3.1\TestingApp.dll
+C:\Codes\PCI\PCI-ConsoleApp\TestingApp\bin\Debug\netcoreapp3.1\TestingApp.pdb
+C:\Codes\PCI\PCI-ConsoleApp\TestingApp\obj\Debug\netcoreapp3.1\TestingApp.AssemblyInfoInputs.cache
+C:\Codes\PCI\PCI-ConsoleApp\TestingApp\obj\Debug\netcoreapp3.1\TestingApp.AssemblyInfo.cs
+C:\Codes\PCI\PCI-ConsoleApp\TestingApp\obj\Debug\netcoreapp3.1\TestingApp.dll
+C:\Codes\PCI\PCI-ConsoleApp\TestingApp\obj\Debug\netcoreapp3.1\TestingApp.pdb

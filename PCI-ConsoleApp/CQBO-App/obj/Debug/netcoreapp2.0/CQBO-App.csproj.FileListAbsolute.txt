@@ -1,0 +1,11 @@
+C:\Codes\PCI\PCI-ConsoleApp\CQBO-App\bin\Debug\netcoreapp2.0\CQBO-App.dll.config
+C:\Codes\PCI\PCI-ConsoleApp\CQBO-App\bin\Debug\netcoreapp2.0\CQBO-App.deps.json
+C:\Codes\PCI\PCI-ConsoleApp\CQBO-App\bin\Debug\netcoreapp2.0\CQBO-App.runtimeconfig.json
+C:\Codes\PCI\PCI-ConsoleApp\CQBO-App\bin\Debug\netcoreapp2.0\CQBO-App.runtimeconfig.dev.json
+C:\Codes\PCI\PCI-ConsoleApp\CQBO-App\bin\Debug\netcoreapp2.0\CQBO-App.dll
+C:\Codes\PCI\PCI-ConsoleApp\CQBO-App\bin\Debug\netcoreapp2.0\CQBO-App.pdb
+C:\Codes\PCI\PCI-ConsoleApp\CQBO-App\obj\Debug\netcoreapp2.0\CQBO-App.csprojAssemblyReference.cache
+C:\Codes\PCI\PCI-ConsoleApp\CQBO-App\obj\Debug\netcoreapp2.0\CQBO-App.AssemblyInfoInputs.cache
+C:\Codes\PCI\PCI-ConsoleApp\CQBO-App\obj\Debug\netcoreapp2.0\CQBO-App.AssemblyInfo.cs
+C:\Codes\PCI\PCI-ConsoleApp\CQBO-App\obj\Debug\netcoreapp2.0\CQBO-App.dll
+C:\Codes\PCI\PCI-ConsoleApp\CQBO-App\obj\Debug\netcoreapp2.0\CQBO-App.pdb

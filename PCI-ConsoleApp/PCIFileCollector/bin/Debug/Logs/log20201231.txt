@@ -1,0 +1,27 @@
+02020/12/31 02:10:07 #StartProcess
+02020/12/31 02:11:04 #EndProcess
+02020/12/31 02:45:09 #StartProcess
+02020/12/31 02:45:09 #EndProcess
+02020/12/31 02:45:34 #StartProcess
+02020/12/31 02:47:15 #StartProcess
+02020/12/31 02:48:48 #StartProcess
+02020/12/31 02:52:16 #StartProcess
+02020/12/31 02:53:13 #StartProcess
+02020/12/31 02:54:14 #EndProcess
+02020/12/31 03:13:47 #StartProcess
+02020/12/31 03:14:35 #EndProcess
+02020/12/31 03:46:37 #StartProcess
+02020/12/31 03:46:37 #Exception occured
+02020/12/31 03:46:37 #Column 'DateFormatInFile' does not belong to table .
+02020/12/31 03:46:37 #Source: PCI.FileCollector
+02020/12/31 03:46:37 #Inner exception: 
+02020/12/31 03:46:37 #Stack trace:    at PCI.FileCollector.DAL.AppDAL.GetSFTPAppSettings() in C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\DAL\AppDAL.cs:line 64
+   at PCIFileCollector.Program.CollectSFTPFiles() in C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\Program.cs:line 49
+   at PCIFileCollector.Program.Main(String[] args) in C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\Program.cs:line 25
+02020/12/31 03:47:18 #StartProcess
+02020/12/31 03:48:12 #StartProcess
+02020/12/31 03:48:58 #EndProcess
+02020/12/31 03:49:49 #StartProcess
+02020/12/31 03:54:08 #StartProcess
+02020/12/31 03:55:33 #StartProcess
+02020/12/31 03:56:58 #EndProcess

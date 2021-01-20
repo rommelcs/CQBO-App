@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PCI.Helpers/1.0.0": {
+        "dependencies": {
+          "WinSCP": "5.17.9"
+        },
+        "runtime": {
+          "PCI.Helpers.dll": {}
+        }
+      },
+      "WinSCP/5.17.9": {
+        "runtime": {
+          "lib/netstandard2.0/WinSCPnet.dll": {
+            "assemblyVersion": "1.7.2.10905",
+            "fileVersion": "1.7.2.10905"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PCI.Helpers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinSCP/5.17.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-t0hX9mTPmOrpOJUTWzqnosNv62vM7ARt19aet+xssHsMziXMU7I/oh8zIY7JnQZr1gVxzcFadfIjmiOqZmWuMA==",
+      "path": "winscp/5.17.9",
+      "hashPath": "winscp.5.17.9.nupkg.sha512"
+    }
+  }
+}

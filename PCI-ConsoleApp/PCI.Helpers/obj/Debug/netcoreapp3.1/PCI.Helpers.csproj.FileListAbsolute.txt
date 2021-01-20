@@ -1,0 +1,9 @@
+C:\Codes\PCI\PCI-ConsoleApp\PCI.Helpers\bin\Debug\netcoreapp3.1\PCI.Helpers.deps.json
+C:\Codes\PCI\PCI-ConsoleApp\PCI.Helpers\bin\Debug\netcoreapp3.1\PCI.Helpers.dll
+C:\Codes\PCI\PCI-ConsoleApp\PCI.Helpers\bin\Debug\netcoreapp3.1\PCI.Helpers.pdb
+C:\Codes\PCI\PCI-ConsoleApp\PCI.Helpers\obj\Debug\netcoreapp3.1\PCI.Helpers.AssemblyInfoInputs.cache
+C:\Codes\PCI\PCI-ConsoleApp\PCI.Helpers\obj\Debug\netcoreapp3.1\PCI.Helpers.AssemblyInfo.cs
+C:\Codes\PCI\PCI-ConsoleApp\PCI.Helpers\obj\Debug\netcoreapp3.1\PCI.Helpers.dll
+C:\Codes\PCI\PCI-ConsoleApp\PCI.Helpers\obj\Debug\netcoreapp3.1\PCI.Helpers.pdb
+C:\Codes\PCI\PCI-ConsoleApp\PCI.Helpers\bin\Debug\netcoreapp3.1\WinSCP.exe
+C:\Codes\PCI\PCI-ConsoleApp\PCI.Helpers\obj\Debug\netcoreapp3.1\PCI.Helpers.csprojAssemblyReference.cache

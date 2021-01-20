@@ -1,0 +1,544 @@
+02021/01/13 09:03:27 #StartProcess
+02021/01/13 09:03:28 #Processing.. PFPL_PCIFTP
+02021/01/13 09:03:34 #Download of /PFPL/PHILLIP_CloseOut_Trade_PIF_20210112.csv succeeded
+02021/01/13 09:03:34 #Download of /PFPL/PHILLIP_DataFile_Comm_PIF_20210112.csv succeeded
+02021/01/13 09:03:34 #Download of /PFPL/PHILLIP_DataFile_PIF_20210112.csv succeeded
+02021/01/13 09:03:34 #Download of /PFPL/PHILLIP_Financial_Summary_PIF_20210112.csv succeeded
+02021/01/13 09:03:34 #Download of /PFPL/PHILLIP_Open_Position_PIF_20210112.csv succeeded
+02021/01/13 09:03:35 #EndProcess
+02021/01/13 09:03:58 #StartProcess
+02021/01/13 09:03:59 #Processing.. ADM_PCIFTP
+02021/01/13 09:04:02 #Download of /ADM/2021-01-12.aaprlmcsv.csv succeeded
+02021/01/13 09:04:03 #Processing.. CME_F878FTP
+02021/01/13 09:04:08 #Download of /cme/ftp/878/Outgoing/878_COMEX_InventoryList_210112_183115.nr.csv succeeded
+02021/01/13 09:04:08 #Download of /cme/ftp/878/Outgoing/878_COMEX_InventoryList_210112_183228.csv succeeded
+02021/01/13 09:04:55 #Download of /cme/ftp/878/Outgoing/f878.cmerpt.rthcycle succeeded
+02021/01/13 09:04:55 #Processing.. FCS_PCIFTP
+02021/01/13 09:05:04 #Download of /FC Stone/CSVMNYF1_20210112.csv succeeded
+02021/01/13 09:05:04 #Download of /FC Stone/CSVPOSF1_20210112.csv succeeded
+02021/01/13 09:05:04 #Download of /FC Stone/CSVST4F1_20210112.csv succeeded
+02021/01/13 09:05:04 #Download of /FC Stone/CSVTRNF30.20210112.CSV succeeded
+02021/01/13 09:05:04 #Processing.. ICEEU_PCIFTP
+02021/01/13 09:05:10 #Download of /PUS/banking/PUS_MBSR_20210112.csv succeeded
+02021/01/13 09:05:10 #Download of /PUS/banking/PUS_MBCAA_20210112.csv succeeded
+02021/01/13 09:05:10 #Download of /PUS/banking/PUS_MBCAA_20210112.pdf succeeded
+02021/01/13 09:05:10 #Download of /PUS/banking/PUS_MBCD_20210112.csv succeeded
+02021/01/13 09:05:10 #Download of /PUS/banking/PUS_MBCC_20210112.csv succeeded
+02021/01/13 09:05:10 #Download of /PUS/banking/PUS_MBIA_20210112.csv succeeded
+02021/01/13 09:05:10 #Download of /PUS/banking/PUS_MBCC_20210112.pdf succeeded
+02021/01/13 09:05:10 #Download of /PUS/banking/PUS_MBCOT_20210112.csv succeeded
+02021/01/13 09:05:10 #Download of /PUS/banking/PUS_MBCRLD_20210112.csv succeeded
+02021/01/13 09:05:10 #Download of /PUS/banking/PUS_MBCOB_20210112.csv succeeded
+02021/01/13 09:05:10 #Download of /PUS/banking/PUS_MBCAB_20210112.csv succeeded
+02021/01/13 09:05:10 #Download of /PUS/banking/PUS_MBCOT_20210112.pdf succeeded
+02021/01/13 09:05:10 #Download of /PUS/banking/PUS_MBIA_20210112.pdf succeeded
+02021/01/13 09:05:10 #Download of /PUS/banking/PUS_MBCOB_20210112.pdf succeeded
+02021/01/13 09:05:10 #Download of /PUS/banking/PUS_MBSR_20210112.pdf succeeded
+02021/01/13 09:05:10 #Download of /PUS/banking/PUS_MBEP_20210112.csv succeeded
+02021/01/13 09:05:10 #Download of /PUS/banking/PUS_MBEP_20210112.pdf succeeded
+02021/01/13 09:05:10 #Download of /PUS/banking/PUS_DCO_CustAcctBalances_20210112_0.csv succeeded
+02021/01/13 09:05:10 #Processing.. ICEUS_878jrdpaz
+02021/01/13 09:05:14 #Download of /878/banking/878_MBCOT_20210112.csv succeeded
+02021/01/13 09:05:14 #Download of /878/banking/878_MBCAB_20210112.csv succeeded
+02021/01/13 09:05:14 #Download of /878/banking/878_MBCAA_20210112.csv succeeded
+02021/01/13 09:05:14 #Download of /878/banking/878_MBCC_20210112.csv succeeded
+02021/01/13 09:05:14 #Download of /878/banking/878_MBCRLD_20210112.csv succeeded
+02021/01/13 09:05:14 #Download of /878/banking/878_MBCC_20210112.pdf succeeded
+02021/01/13 09:05:14 #Download of /878/banking/878_MBIA_20210112.csv succeeded
+02021/01/13 09:05:14 #Download of /878/banking/878_MBCOB_20210112.csv succeeded
+02021/01/13 09:05:14 #Download of /878/banking/878_MBSR_20210112.csv succeeded
+02021/01/13 09:05:14 #Download of /878/banking/878_MBCAA_20210112.pdf succeeded
+02021/01/13 09:05:14 #Download of /878/banking/878_MBCOB_20210112.pdf succeeded
+02021/01/13 09:05:14 #Download of /878/banking/878_MBIA_20210112.pdf succeeded
+02021/01/13 09:05:14 #Download of /878/banking/878_MBSR_20210112.pdf succeeded
+02021/01/13 09:05:14 #Download of /878/banking/878_MBCD_20210112.csv succeeded
+02021/01/13 09:05:14 #Download of /878/banking/878_MBCOT_20210112.pdf succeeded
+02021/01/13 09:05:14 #Download of /878/banking/878_DCO_CustAcctBalances_20210112_0.csv succeeded
+02021/01/13 09:05:14 #Processing.. OCC_CMO8020711
+02021/01/13 09:05:17 #Download of /data/rx167l.20210112 succeeded
+02021/01/13 09:05:17 #Download of /data/rx167e.20210112 succeeded
+02021/01/13 09:05:17 #Processing.. PFPL_PCIFTP
+02021/01/13 09:05:22 #Download of /PFPL/PHILLIP_CloseOut_Trade_PIF_20210112.csv succeeded
+02021/01/13 09:05:22 #Download of /PFPL/PHILLIP_DataFile_Comm_PIF_20210112.csv succeeded
+02021/01/13 09:05:22 #Download of /PFPL/PHILLIP_DataFile_PIF_20210112.csv succeeded
+02021/01/13 09:05:22 #Download of /PFPL/PHILLIP_Financial_Summary_PIF_20210112.csv succeeded
+02021/01/13 09:05:22 #Download of /PFPL/PHILLIP_Open_Position_PIF_20210112.csv succeeded
+02021/01/13 09:05:22 #EndProcess
+02021/01/13 09:08:12 #StartProcess
+02021/01/13 09:08:12 #Processing.. ADM_PCIFTP
+02021/01/13 09:08:16 #Download of /ADM/2021-01-12.aaprlmcsv.csv succeeded
+02021/01/13 09:08:16 #Processing.. CME_F878FTP
+02021/01/13 09:08:30 #Download of /cme/ftp/878/Outgoing/878_COMEX_InventoryList_210112_183115.nr.csv succeeded
+02021/01/13 09:08:30 #Download of /cme/ftp/878/Outgoing/878_COMEX_InventoryList_210112_183228.csv succeeded
+02021/01/13 09:09:16 #Download of /cme/ftp/878/Outgoing/f878.cmerpt.rthcycle succeeded
+02021/01/13 09:09:16 #Processing.. FCS_PCIFTP
+02021/01/13 09:09:26 #Download of /FC Stone/CSVMNYF1_20210112.csv succeeded
+02021/01/13 09:09:26 #Download of /FC Stone/CSVPOSF1_20210112.csv succeeded
+02021/01/13 09:09:26 #Download of /FC Stone/CSVST4F1_20210112.csv succeeded
+02021/01/13 09:09:26 #Download of /FC Stone/CSVTRNF30.20210112.CSV succeeded
+02021/01/13 09:09:26 #Processing.. ICEEU_PCIFTP
+02021/01/13 09:09:33 #Download of /PUS/banking/PUS_MBSR_20210112.csv succeeded
+02021/01/13 09:09:33 #Download of /PUS/banking/PUS_MBCAA_20210112.csv succeeded
+02021/01/13 09:09:33 #Download of /PUS/banking/PUS_MBCAA_20210112.pdf succeeded
+02021/01/13 09:09:33 #Download of /PUS/banking/PUS_MBCD_20210112.csv succeeded
+02021/01/13 09:09:33 #Download of /PUS/banking/PUS_MBCC_20210112.csv succeeded
+02021/01/13 09:09:33 #Download of /PUS/banking/PUS_MBIA_20210112.csv succeeded
+02021/01/13 09:09:33 #Download of /PUS/banking/PUS_MBCC_20210112.pdf succeeded
+02021/01/13 09:09:33 #Download of /PUS/banking/PUS_MBCOT_20210112.csv succeeded
+02021/01/13 09:09:33 #Download of /PUS/banking/PUS_MBCRLD_20210112.csv succeeded
+02021/01/13 09:09:33 #Download of /PUS/banking/PUS_MBCOB_20210112.csv succeeded
+02021/01/13 09:09:33 #Download of /PUS/banking/PUS_MBCAB_20210112.csv succeeded
+02021/01/13 09:09:33 #Download of /PUS/banking/PUS_MBCOT_20210112.pdf succeeded
+02021/01/13 09:09:33 #Download of /PUS/banking/PUS_MBIA_20210112.pdf succeeded
+02021/01/13 09:09:33 #Download of /PUS/banking/PUS_MBCOB_20210112.pdf succeeded
+02021/01/13 09:09:33 #Download of /PUS/banking/PUS_MBSR_20210112.pdf succeeded
+02021/01/13 09:09:33 #Download of /PUS/banking/PUS_MBEP_20210112.csv succeeded
+02021/01/13 09:09:33 #Download of /PUS/banking/PUS_MBEP_20210112.pdf succeeded
+02021/01/13 09:09:33 #Download of /PUS/banking/PUS_DCO_CustAcctBalances_20210112_0.csv succeeded
+02021/01/13 09:09:33 #Processing.. ICEUS_878jrdpaz
+02021/01/13 09:09:38 #Download of /878/banking/878_MBCOT_20210112.csv succeeded
+02021/01/13 09:09:38 #Download of /878/banking/878_MBCAB_20210112.csv succeeded
+02021/01/13 09:09:38 #Download of /878/banking/878_MBCAA_20210112.csv succeeded
+02021/01/13 09:09:38 #Download of /878/banking/878_MBCC_20210112.csv succeeded
+02021/01/13 09:09:38 #Download of /878/banking/878_MBCRLD_20210112.csv succeeded
+02021/01/13 09:09:38 #Download of /878/banking/878_MBCC_20210112.pdf succeeded
+02021/01/13 09:09:38 #Download of /878/banking/878_MBIA_20210112.csv succeeded
+02021/01/13 09:09:38 #Download of /878/banking/878_MBCOB_20210112.csv succeeded
+02021/01/13 09:09:38 #Download of /878/banking/878_MBSR_20210112.csv succeeded
+02021/01/13 09:09:38 #Download of /878/banking/878_MBCAA_20210112.pdf succeeded
+02021/01/13 09:09:38 #Download of /878/banking/878_MBCOB_20210112.pdf succeeded
+02021/01/13 09:09:38 #Download of /878/banking/878_MBIA_20210112.pdf succeeded
+02021/01/13 09:09:38 #Download of /878/banking/878_MBSR_20210112.pdf succeeded
+02021/01/13 09:09:38 #Download of /878/banking/878_MBCD_20210112.csv succeeded
+02021/01/13 09:09:38 #Download of /878/banking/878_MBCOT_20210112.pdf succeeded
+02021/01/13 09:09:38 #Download of /878/banking/878_DCO_CustAcctBalances_20210112_0.csv succeeded
+02021/01/13 09:09:39 #Processing.. OCC_CMO8020711
+02021/01/13 09:10:02 #Exception occured
+02021/01/13 09:10:02 #Network error: Connection to "198.133.169.198" timed out.
+02021/01/13 09:10:02 #Source: WinSCPnet
+02021/01/13 09:10:02 #Inner exception: 
+02021/01/13 09:10:02 #Stack trace:    at WinSCP.SessionLogReader.Read(LogReadFlags flags)
+   at WinSCP.ElementLogReader.Read(LogReadFlags flags)
+   at WinSCP.SessionElementLogReader.Read(LogReadFlags flags)
+   at WinSCP.CustomLogReader.TryWaitForNonEmptyElement(String localName, LogReadFlags flags)
+   at WinSCP.CustomLogReader.WaitForNonEmptyElement(String localName, LogReadFlags flags)
+   at WinSCP.CustomLogReader.WaitForNonEmptyElementAndCreateLogReader(String localName, LogReadFlags flags)
+   at WinSCP.CustomLogReader.WaitForGroupAndCreateLogReader()
+   at WinSCP.Session.WaitForGroup()
+   at WinSCP.Session.Open(SessionOptions sessionOptions)
+   at PCI.Helpers.WinSCPHelper.CreateSFTPSession(SessionOptions sessionOptions, List`1 fileCollection, LogHelper log, Int32 toProcessDay) in C:\Codes\PCI\PCI-ConsoleApp\PCI.Helpers\WinSCPHelper.cs:line 85
+02021/01/13 09:10:02 #Exception occured
+02021/01/13 09:10:02 #Network error: Connection to "198.133.169.198" timed out.
+02021/01/13 09:10:02 #Source: WinSCPnet
+02021/01/13 09:10:02 #Inner exception: 
+02021/01/13 09:10:02 #Stack trace:    at PCI.Helpers.WinSCPHelper.CreateSFTPSession(SessionOptions sessionOptions, List`1 fileCollection, LogHelper log, Int32 toProcessDay) in C:\Codes\PCI\PCI-ConsoleApp\PCI.Helpers\WinSCPHelper.cs:line 144
+   at PCI.Helpers.WinSCPHelper.WinSCPSession(List`1 sftpCollection, LogHelper log, Int32 toProcessDay) in C:\Codes\PCI\PCI-ConsoleApp\PCI.Helpers\WinSCPHelper.cs:line 45
+02021/01/13 09:10:02 #EndProcess
+02021/01/13 09:11:02 #StartProcess
+02021/01/13 09:11:03 #Processing.. ADM_PCIFTP
+02021/01/13 09:11:07 #Download of /ADM/2021-01-12.aaprlmcsv.csv succeeded
+02021/01/13 09:11:07 #Processing.. CME_F878FTP
+02021/01/13 09:11:11 #Download of /cme/ftp/878/Outgoing/878_COMEX_InventoryList_210112_183115.nr.csv succeeded
+02021/01/13 09:11:11 #Download of /cme/ftp/878/Outgoing/878_COMEX_InventoryList_210112_183228.csv succeeded
+02021/01/13 09:12:00 #Download of /cme/ftp/878/Outgoing/f878.cmerpt.rthcycle succeeded
+02021/01/13 09:12:00 #Processing.. FCS_PCIFTP
+02021/01/13 09:12:08 #Download of /FC Stone/CSVMNYF1_20210112.csv succeeded
+02021/01/13 09:12:08 #Download of /FC Stone/CSVPOSF1_20210112.csv succeeded
+02021/01/13 09:12:08 #Download of /FC Stone/CSVST4F1_20210112.csv succeeded
+02021/01/13 09:12:08 #Download of /FC Stone/CSVTRNF30.20210112.CSV succeeded
+02021/01/13 09:12:08 #Processing.. ICEEU_PCIFTP
+02021/01/13 09:12:14 #Download of /PUS/banking/PUS_MBSR_20210112.csv succeeded
+02021/01/13 09:12:14 #Download of /PUS/banking/PUS_MBCAA_20210112.csv succeeded
+02021/01/13 09:12:14 #Download of /PUS/banking/PUS_MBCAA_20210112.pdf succeeded
+02021/01/13 09:12:14 #Download of /PUS/banking/PUS_MBCD_20210112.csv succeeded
+02021/01/13 09:12:14 #Download of /PUS/banking/PUS_MBCC_20210112.csv succeeded
+02021/01/13 09:12:14 #Download of /PUS/banking/PUS_MBIA_20210112.csv succeeded
+02021/01/13 09:12:14 #Download of /PUS/banking/PUS_MBCC_20210112.pdf succeeded
+02021/01/13 09:12:14 #Download of /PUS/banking/PUS_MBCOT_20210112.csv succeeded
+02021/01/13 09:12:14 #Download of /PUS/banking/PUS_MBCRLD_20210112.csv succeeded
+02021/01/13 09:12:14 #Download of /PUS/banking/PUS_MBCOB_20210112.csv succeeded
+02021/01/13 09:12:14 #Download of /PUS/banking/PUS_MBCAB_20210112.csv succeeded
+02021/01/13 09:12:14 #Download of /PUS/banking/PUS_MBCOT_20210112.pdf succeeded
+02021/01/13 09:12:14 #Download of /PUS/banking/PUS_MBIA_20210112.pdf succeeded
+02021/01/13 09:12:14 #Download of /PUS/banking/PUS_MBCOB_20210112.pdf succeeded
+02021/01/13 09:12:14 #Download of /PUS/banking/PUS_MBSR_20210112.pdf succeeded
+02021/01/13 09:12:14 #Download of /PUS/banking/PUS_MBEP_20210112.csv succeeded
+02021/01/13 09:12:14 #Download of /PUS/banking/PUS_MBEP_20210112.pdf succeeded
+02021/01/13 09:12:14 #Download of /PUS/banking/PUS_DCO_CustAcctBalances_20210112_0.csv succeeded
+02021/01/13 09:12:14 #Processing.. ICEUS_878jrdpaz
+02021/01/13 09:12:20 #Download of /878/banking/878_MBCOT_20210112.csv succeeded
+02021/01/13 09:12:20 #Download of /878/banking/878_MBCAB_20210112.csv succeeded
+02021/01/13 09:12:20 #Download of /878/banking/878_MBCAA_20210112.csv succeeded
+02021/01/13 09:12:20 #Download of /878/banking/878_MBCC_20210112.csv succeeded
+02021/01/13 09:12:20 #Download of /878/banking/878_MBCRLD_20210112.csv succeeded
+02021/01/13 09:12:20 #Download of /878/banking/878_MBCC_20210112.pdf succeeded
+02021/01/13 09:12:20 #Download of /878/banking/878_MBIA_20210112.csv succeeded
+02021/01/13 09:12:20 #Download of /878/banking/878_MBCOB_20210112.csv succeeded
+02021/01/13 09:12:20 #Download of /878/banking/878_MBSR_20210112.csv succeeded
+02021/01/13 09:12:20 #Download of /878/banking/878_MBCAA_20210112.pdf succeeded
+02021/01/13 09:12:20 #Download of /878/banking/878_MBCOB_20210112.pdf succeeded
+02021/01/13 09:12:20 #Download of /878/banking/878_MBIA_20210112.pdf succeeded
+02021/01/13 09:12:20 #Download of /878/banking/878_MBSR_20210112.pdf succeeded
+02021/01/13 09:12:20 #Download of /878/banking/878_MBCD_20210112.csv succeeded
+02021/01/13 09:12:20 #Download of /878/banking/878_MBCOT_20210112.pdf succeeded
+02021/01/13 09:12:20 #Download of /878/banking/878_DCO_CustAcctBalances_20210112_0.csv succeeded
+02021/01/13 09:12:20 #Processing.. OCC_CMO8020711
+02021/01/13 09:12:43 #Exception occured
+02021/01/13 09:12:43 #Network error: Connection to "198.133.169.198" timed out.
+02021/01/13 09:12:43 #Source: WinSCPnet
+02021/01/13 09:12:43 #Inner exception: 
+02021/01/13 09:12:43 #Stack trace:    at WinSCP.SessionLogReader.Read(LogReadFlags flags)
+   at WinSCP.ElementLogReader.Read(LogReadFlags flags)
+   at WinSCP.SessionElementLogReader.Read(LogReadFlags flags)
+   at WinSCP.CustomLogReader.TryWaitForNonEmptyElement(String localName, LogReadFlags flags)
+   at WinSCP.CustomLogReader.WaitForNonEmptyElement(String localName, LogReadFlags flags)
+   at WinSCP.CustomLogReader.WaitForNonEmptyElementAndCreateLogReader(String localName, LogReadFlags flags)
+   at WinSCP.CustomLogReader.WaitForGroupAndCreateLogReader()
+   at WinSCP.Session.WaitForGroup()
+   at WinSCP.Session.Open(SessionOptions sessionOptions)
+   at PCI.Helpers.WinSCPHelper.CreateSFTPSession(SessionOptions sessionOptions, List`1 fileCollection, LogHelper log, Int32 toProcessDay) in C:\Codes\PCI\PCI-ConsoleApp\PCI.Helpers\WinSCPHelper.cs:line 85
+02021/01/13 09:12:43 #Exception occured
+02021/01/13 09:12:43 #Network error: Connection to "198.133.169.198" timed out.
+02021/01/13 09:12:43 #Source: WinSCPnet
+02021/01/13 09:12:43 #Inner exception: 
+02021/01/13 09:12:43 #Stack trace:    at PCI.Helpers.WinSCPHelper.CreateSFTPSession(SessionOptions sessionOptions, List`1 fileCollection, LogHelper log, Int32 toProcessDay) in C:\Codes\PCI\PCI-ConsoleApp\PCI.Helpers\WinSCPHelper.cs:line 144
+   at PCI.Helpers.WinSCPHelper.WinSCPSession(List`1 sftpCollection, LogHelper log, Int32 toProcessDay) in C:\Codes\PCI\PCI-ConsoleApp\PCI.Helpers\WinSCPHelper.cs:line 45
+02021/01/13 09:12:43 #Exception occured
+02021/01/13 09:12:43 #Network error: Connection to "198.133.169.198" timed out.
+02021/01/13 09:12:43 #Source: WinSCPnet
+02021/01/13 09:12:43 #Inner exception: 
+02021/01/13 09:12:43 #Stack trace:    at PCI.Helpers.WinSCPHelper.WinSCPSession(List`1 sftpCollection, LogHelper log, Int32 toProcessDay) in C:\Codes\PCI\PCI-ConsoleApp\PCI.Helpers\WinSCPHelper.cs:line 73
+   at PCIFileCollector.Program.CollectSFTPFiles(LogHelper log) in C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\Program.cs:line 55
+   at PCIFileCollector.Program.Main(String[] args) in C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\Program.cs:line 28
+02021/01/13 09:13:46 #StartProcess
+02021/01/13 09:13:47 #Processing.. ADM_PCIFTP
+02021/01/13 09:13:54 #Download of /ADM/2021-01-12.aaprlmcsv.csv succeeded
+02021/01/13 09:13:54 #Processing.. CME_F878FTP
+02021/01/13 09:13:59 #Download of /cme/ftp/878/Outgoing/878_COMEX_InventoryList_210112_183115.nr.csv succeeded
+02021/01/13 09:13:59 #Download of /cme/ftp/878/Outgoing/878_COMEX_InventoryList_210112_183228.csv succeeded
+02021/01/13 09:14:46 #Download of /cme/ftp/878/Outgoing/f878.cmerpt.rthcycle succeeded
+02021/01/13 09:14:46 #Processing.. FCS_PCIFTP
+02021/01/13 09:14:57 #Download of /FC Stone/CSVMNYF1_20210112.csv succeeded
+02021/01/13 09:14:57 #Download of /FC Stone/CSVPOSF1_20210112.csv succeeded
+02021/01/13 09:14:57 #Download of /FC Stone/CSVST4F1_20210112.csv succeeded
+02021/01/13 09:14:57 #Download of /FC Stone/CSVTRNF30.20210112.CSV succeeded
+02021/01/13 09:14:58 #Processing.. ICEEU_PCIFTP
+02021/01/13 09:15:06 #Download of /PUS/banking/PUS_MBSR_20210112.csv succeeded
+02021/01/13 09:15:06 #Download of /PUS/banking/PUS_MBCAA_20210112.csv succeeded
+02021/01/13 09:15:06 #Download of /PUS/banking/PUS_MBCAA_20210112.pdf succeeded
+02021/01/13 09:15:06 #Download of /PUS/banking/PUS_MBCD_20210112.csv succeeded
+02021/01/13 09:15:06 #Download of /PUS/banking/PUS_MBCC_20210112.csv succeeded
+02021/01/13 09:15:06 #Download of /PUS/banking/PUS_MBIA_20210112.csv succeeded
+02021/01/13 09:15:06 #Download of /PUS/banking/PUS_MBCC_20210112.pdf succeeded
+02021/01/13 09:15:06 #Download of /PUS/banking/PUS_MBCOT_20210112.csv succeeded
+02021/01/13 09:15:06 #Download of /PUS/banking/PUS_MBCRLD_20210112.csv succeeded
+02021/01/13 09:15:06 #Download of /PUS/banking/PUS_MBCOB_20210112.csv succeeded
+02021/01/13 09:15:06 #Download of /PUS/banking/PUS_MBCAB_20210112.csv succeeded
+02021/01/13 09:15:06 #Download of /PUS/banking/PUS_MBCOT_20210112.pdf succeeded
+02021/01/13 09:15:06 #Download of /PUS/banking/PUS_MBIA_20210112.pdf succeeded
+02021/01/13 09:15:06 #Download of /PUS/banking/PUS_MBCOB_20210112.pdf succeeded
+02021/01/13 09:15:06 #Download of /PUS/banking/PUS_MBSR_20210112.pdf succeeded
+02021/01/13 09:15:06 #Download of /PUS/banking/PUS_MBEP_20210112.csv succeeded
+02021/01/13 09:15:06 #Download of /PUS/banking/PUS_MBEP_20210112.pdf succeeded
+02021/01/13 09:15:06 #Download of /PUS/banking/PUS_DCO_CustAcctBalances_20210112_0.csv succeeded
+02021/01/13 09:15:06 #Processing.. ICEUS_878jrdpaz
+02021/01/13 09:15:13 #Download of /878/banking/878_MBCOT_20210112.csv succeeded
+02021/01/13 09:15:13 #Download of /878/banking/878_MBCAB_20210112.csv succeeded
+02021/01/13 09:15:13 #Download of /878/banking/878_MBCAA_20210112.csv succeeded
+02021/01/13 09:15:13 #Download of /878/banking/878_MBCC_20210112.csv succeeded
+02021/01/13 09:15:13 #Download of /878/banking/878_MBCRLD_20210112.csv succeeded
+02021/01/13 09:15:13 #Download of /878/banking/878_MBCC_20210112.pdf succeeded
+02021/01/13 09:15:13 #Download of /878/banking/878_MBIA_20210112.csv succeeded
+02021/01/13 09:15:13 #Download of /878/banking/878_MBCOB_20210112.csv succeeded
+02021/01/13 09:15:13 #Download of /878/banking/878_MBSR_20210112.csv succeeded
+02021/01/13 09:15:13 #Download of /878/banking/878_MBCAA_20210112.pdf succeeded
+02021/01/13 09:15:13 #Download of /878/banking/878_MBCOB_20210112.pdf succeeded
+02021/01/13 09:15:13 #Download of /878/banking/878_MBIA_20210112.pdf succeeded
+02021/01/13 09:15:13 #Download of /878/banking/878_MBSR_20210112.pdf succeeded
+02021/01/13 09:15:13 #Download of /878/banking/878_MBCD_20210112.csv succeeded
+02021/01/13 09:15:13 #Download of /878/banking/878_MBCOT_20210112.pdf succeeded
+02021/01/13 09:15:13 #Download of /878/banking/878_DCO_CustAcctBalances_20210112_0.csv succeeded
+02021/01/13 09:15:13 #Processing.. OCC_CMO8020711
+02021/01/13 09:15:51 #Exception occured
+02021/01/13 09:15:51 #Network error: Connection to "198.133.169.198" timed out.
+02021/01/13 09:15:52 #Source: WinSCPnet
+02021/01/13 09:15:52 #Inner exception: 
+02021/01/13 09:15:53 #Stack trace:    at WinSCP.SessionLogReader.Read(LogReadFlags flags)
+   at WinSCP.ElementLogReader.Read(LogReadFlags flags)
+   at WinSCP.SessionElementLogReader.Read(LogReadFlags flags)
+   at WinSCP.CustomLogReader.TryWaitForNonEmptyElement(String localName, LogReadFlags flags)
+   at WinSCP.CustomLogReader.WaitForNonEmptyElement(String localName, LogReadFlags flags)
+   at WinSCP.CustomLogReader.WaitForNonEmptyElementAndCreateLogReader(String localName, LogReadFlags flags)
+   at WinSCP.CustomLogReader.WaitForGroupAndCreateLogReader()
+   at WinSCP.Session.WaitForGroup()
+   at WinSCP.Session.Open(SessionOptions sessionOptions)
+   at PCI.Helpers.WinSCPHelper.CreateSFTPSession(SessionOptions sessionOptions, List`1 fileCollection, LogHelper log, Int32 toProcessDay) in C:\Codes\PCI\PCI-ConsoleApp\PCI.Helpers\WinSCPHelper.cs:line 85
+02021/01/13 09:16:04 #Exception occured
+02021/01/13 09:16:06 #Network error: Connection to "198.133.169.198" timed out.
+02021/01/13 09:16:07 #Source: WinSCPnet
+02021/01/13 09:16:11 #Inner exception: 
+02021/01/13 09:16:12 #Stack trace:    at PCI.Helpers.WinSCPHelper.CreateSFTPSession(SessionOptions sessionOptions, List`1 fileCollection, LogHelper log, Int32 toProcessDay) in C:\Codes\PCI\PCI-ConsoleApp\PCI.Helpers\WinSCPHelper.cs:line 144
+   at PCI.Helpers.WinSCPHelper.WinSCPSession(List`1 sftpCollection, LogHelper log, Int32 toProcessDay) in C:\Codes\PCI\PCI-ConsoleApp\PCI.Helpers\WinSCPHelper.cs:line 45
+02021/01/13 09:16:17 #Exception occured
+02021/01/13 09:16:21 #Network error: Connection to "198.133.169.198" timed out.
+02021/01/13 09:16:22 #Source: WinSCPnet
+02021/01/13 09:16:23 #Inner exception: 
+02021/01/13 09:16:24 #Stack trace:    at PCI.Helpers.WinSCPHelper.WinSCPSession(List`1 sftpCollection, LogHelper log, Int32 toProcessDay) in C:\Codes\PCI\PCI-ConsoleApp\PCI.Helpers\WinSCPHelper.cs:line 73
+   at PCIFileCollector.Program.CollectSFTPFiles(LogHelper log) in C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\Program.cs:line 55
+   at PCIFileCollector.Program.Main(String[] args) in C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\Program.cs:line 28
+02021/01/13 09:16:48 #StartProcess
+02021/01/13 09:16:48 #Processing.. ADM_PCIFTP
+02021/01/13 09:19:07 #StartProcess
+02021/01/13 09:19:07 #Processing.. ADM_PCIFTP
+02021/01/13 09:19:13 #Download of /ADM/2021-01-12.aaprlmcsv.csv succeeded
+02021/01/13 09:19:13 #Processing.. CME_F878FTP
+02021/01/13 09:19:22 #Download of /cme/ftp/878/Outgoing/878_COMEX_InventoryList_210112_183115.nr.csv succeeded
+02021/01/13 09:19:22 #Download of /cme/ftp/878/Outgoing/878_COMEX_InventoryList_210112_183228.csv succeeded
+02021/01/13 09:20:31 #Download of /cme/ftp/878/Outgoing/f878.cmerpt.rthcycle succeeded
+02021/01/13 09:20:31 #Processing.. FCS_PCIFTP
+02021/01/13 09:21:06 #Download of /FC Stone/CSVMNYF1_20210112.csv succeeded
+02021/01/13 09:21:06 #Download of /FC Stone/CSVPOSF1_20210112.csv succeeded
+02021/01/13 09:21:06 #Download of /FC Stone/CSVST4F1_20210112.csv succeeded
+02021/01/13 09:21:06 #Download of /FC Stone/CSVTRNF30.20210112.CSV succeeded
+02021/01/13 09:21:06 #Processing.. ICEEU_PCIFTP
+02021/01/13 09:21:14 #Download of /PUS/banking/PUS_MBSR_20210112.csv succeeded
+02021/01/13 09:21:14 #Download of /PUS/banking/PUS_MBCAA_20210112.csv succeeded
+02021/01/13 09:21:14 #Download of /PUS/banking/PUS_MBCAA_20210112.pdf succeeded
+02021/01/13 09:21:14 #Download of /PUS/banking/PUS_MBCD_20210112.csv succeeded
+02021/01/13 09:21:14 #Download of /PUS/banking/PUS_MBCC_20210112.csv succeeded
+02021/01/13 09:21:14 #Download of /PUS/banking/PUS_MBIA_20210112.csv succeeded
+02021/01/13 09:21:14 #Download of /PUS/banking/PUS_MBCC_20210112.pdf succeeded
+02021/01/13 09:21:14 #Download of /PUS/banking/PUS_MBCOT_20210112.csv succeeded
+02021/01/13 09:21:14 #Download of /PUS/banking/PUS_MBCRLD_20210112.csv succeeded
+02021/01/13 09:21:14 #Download of /PUS/banking/PUS_MBCOB_20210112.csv succeeded
+02021/01/13 09:21:14 #Download of /PUS/banking/PUS_MBCAB_20210112.csv succeeded
+02021/01/13 09:21:14 #Download of /PUS/banking/PUS_MBCOT_20210112.pdf succeeded
+02021/01/13 09:21:14 #Download of /PUS/banking/PUS_MBIA_20210112.pdf succeeded
+02021/01/13 09:21:14 #Download of /PUS/banking/PUS_MBCOB_20210112.pdf succeeded
+02021/01/13 09:21:14 #Download of /PUS/banking/PUS_MBSR_20210112.pdf succeeded
+02021/01/13 09:21:14 #Download of /PUS/banking/PUS_MBEP_20210112.csv succeeded
+02021/01/13 09:21:14 #Download of /PUS/banking/PUS_MBEP_20210112.pdf succeeded
+02021/01/13 09:21:14 #Download of /PUS/banking/PUS_DCO_CustAcctBalances_20210112_0.csv succeeded
+02021/01/13 09:21:14 #Processing.. ICEUS_878jrdpaz
+02021/01/13 09:21:22 #Download of /878/banking/878_MBCOT_20210112.csv succeeded
+02021/01/13 09:21:22 #Download of /878/banking/878_MBCAB_20210112.csv succeeded
+02021/01/13 09:21:22 #Download of /878/banking/878_MBCAA_20210112.csv succeeded
+02021/01/13 09:21:22 #Download of /878/banking/878_MBCC_20210112.csv succeeded
+02021/01/13 09:21:22 #Download of /878/banking/878_MBCRLD_20210112.csv succeeded
+02021/01/13 09:21:22 #Download of /878/banking/878_MBCC_20210112.pdf succeeded
+02021/01/13 09:21:22 #Download of /878/banking/878_MBIA_20210112.csv succeeded
+02021/01/13 09:21:22 #Download of /878/banking/878_MBCOB_20210112.csv succeeded
+02021/01/13 09:21:22 #Download of /878/banking/878_MBSR_20210112.csv succeeded
+02021/01/13 09:21:22 #Download of /878/banking/878_MBCAA_20210112.pdf succeeded
+02021/01/13 09:21:22 #Download of /878/banking/878_MBCOB_20210112.pdf succeeded
+02021/01/13 09:21:22 #Download of /878/banking/878_MBIA_20210112.pdf succeeded
+02021/01/13 09:21:22 #Download of /878/banking/878_MBSR_20210112.pdf succeeded
+02021/01/13 09:21:22 #Download of /878/banking/878_MBCD_20210112.csv succeeded
+02021/01/13 09:21:22 #Download of /878/banking/878_MBCOT_20210112.pdf succeeded
+02021/01/13 09:21:22 #Download of /878/banking/878_DCO_CustAcctBalances_20210112_0.csv succeeded
+02021/01/13 09:21:22 #Processing.. OCC_CMO8020711
+02021/01/13 09:21:52 #Exception occured
+02021/01/13 09:21:52 #Network error: Connection to "198.133.169.198" timed out.
+02021/01/13 09:21:52 #Source: WinSCPnet
+02021/01/13 09:21:52 #Inner exception: 
+02021/01/13 09:21:53 #Stack trace:    at WinSCP.SessionLogReader.Read(LogReadFlags flags)
+   at WinSCP.ElementLogReader.Read(LogReadFlags flags)
+   at WinSCP.SessionElementLogReader.Read(LogReadFlags flags)
+   at WinSCP.CustomLogReader.TryWaitForNonEmptyElement(String localName, LogReadFlags flags)
+   at WinSCP.CustomLogReader.WaitForNonEmptyElement(String localName, LogReadFlags flags)
+   at WinSCP.CustomLogReader.WaitForNonEmptyElementAndCreateLogReader(String localName, LogReadFlags flags)
+   at WinSCP.CustomLogReader.WaitForGroupAndCreateLogReader()
+   at WinSCP.Session.WaitForGroup()
+   at WinSCP.Session.Open(SessionOptions sessionOptions)
+   at PCI.Helpers.WinSCPHelper.CreateSFTPSession(SessionOptions sessionOptions, List`1 fileCollection, LogHelper log, Int32 toProcessDay) in C:\Codes\PCI\PCI-ConsoleApp\PCI.Helpers\WinSCPHelper.cs:line 85
+02021/01/13 09:22:01 #Processing.. PFPL_PCIFTP
+02021/01/13 09:22:14 #Download of /PFPL/PHILLIP_CloseOut_Trade_PIF_20210112.csv succeeded
+02021/01/13 09:22:14 #Download of /PFPL/PHILLIP_DataFile_Comm_PIF_20210112.csv succeeded
+02021/01/13 09:22:14 #Download of /PFPL/PHILLIP_DataFile_PIF_20210112.csv succeeded
+02021/01/13 09:22:14 #Download of /PFPL/PHILLIP_Financial_Summary_PIF_20210112.csv succeeded
+02021/01/13 09:22:14 #Download of /PFPL/PHILLIP_Open_Position_PIF_20210112.csv succeeded
+02021/01/13 09:22:14 #EndProcess
+02021/01/13 09:23:34 #StartProcess
+02021/01/13 09:23:35 #Processing.. ADM_PCIFTP
+02021/01/13 09:23:38 #Download of /ADM/2021-01-12.aaprlmcsv.csv succeeded
+02021/01/13 09:23:38 #Processing.. CME_F878FTP
+02021/01/13 09:23:44 #Download of /cme/ftp/878/Outgoing/878_COMEX_InventoryList_210112_183115.nr.csv succeeded
+02021/01/13 09:23:44 #Download of /cme/ftp/878/Outgoing/878_COMEX_InventoryList_210112_183228.csv succeeded
+02021/01/13 09:24:31 #Download of /cme/ftp/878/Outgoing/f878.cmerpt.rthcycle succeeded
+02021/01/13 09:24:31 #Processing.. FCS_PCIFTP
+02021/01/13 09:24:39 #Download of /FC Stone/CSVMNYF1_20210112.csv succeeded
+02021/01/13 09:24:39 #Download of /FC Stone/CSVPOSF1_20210112.csv succeeded
+02021/01/13 09:24:39 #Download of /FC Stone/CSVST4F1_20210112.csv succeeded
+02021/01/13 09:24:39 #Download of /FC Stone/CSVTRNF30.20210112.CSV succeeded
+02021/01/13 09:24:40 #Processing.. ICEEU_PCIFTP
+02021/01/13 09:24:45 #Download of /PUS/banking/PUS_MBSR_20210112.csv succeeded
+02021/01/13 09:24:45 #Download of /PUS/banking/PUS_MBCAA_20210112.csv succeeded
+02021/01/13 09:24:45 #Download of /PUS/banking/PUS_MBCAA_20210112.pdf succeeded
+02021/01/13 09:24:45 #Download of /PUS/banking/PUS_MBCD_20210112.csv succeeded
+02021/01/13 09:24:45 #Download of /PUS/banking/PUS_MBCC_20210112.csv succeeded
+02021/01/13 09:24:45 #Download of /PUS/banking/PUS_MBIA_20210112.csv succeeded
+02021/01/13 09:24:45 #Download of /PUS/banking/PUS_MBCC_20210112.pdf succeeded
+02021/01/13 09:24:45 #Download of /PUS/banking/PUS_MBCOT_20210112.csv succeeded
+02021/01/13 09:24:45 #Download of /PUS/banking/PUS_MBCRLD_20210112.csv succeeded
+02021/01/13 09:24:45 #Download of /PUS/banking/PUS_MBCOB_20210112.csv succeeded
+02021/01/13 09:24:45 #Download of /PUS/banking/PUS_MBCAB_20210112.csv succeeded
+02021/01/13 09:24:45 #Download of /PUS/banking/PUS_MBCOT_20210112.pdf succeeded
+02021/01/13 09:24:45 #Download of /PUS/banking/PUS_MBIA_20210112.pdf succeeded
+02021/01/13 09:24:45 #Download of /PUS/banking/PUS_MBCOB_20210112.pdf succeeded
+02021/01/13 09:24:45 #Download of /PUS/banking/PUS_MBSR_20210112.pdf succeeded
+02021/01/13 09:24:45 #Download of /PUS/banking/PUS_MBEP_20210112.csv succeeded
+02021/01/13 09:24:45 #Download of /PUS/banking/PUS_MBEP_20210112.pdf succeeded
+02021/01/13 09:24:45 #Download of /PUS/banking/PUS_DCO_CustAcctBalances_20210112_0.csv succeeded
+02021/01/13 09:24:46 #Processing.. ICEUS_878jrdpaz
+02021/01/13 09:24:51 #Download of /878/banking/878_MBCOT_20210112.csv succeeded
+02021/01/13 09:24:51 #Download of /878/banking/878_MBCAB_20210112.csv succeeded
+02021/01/13 09:24:51 #Download of /878/banking/878_MBCAA_20210112.csv succeeded
+02021/01/13 09:24:51 #Download of /878/banking/878_MBCC_20210112.csv succeeded
+02021/01/13 09:24:51 #Download of /878/banking/878_MBCRLD_20210112.csv succeeded
+02021/01/13 09:24:51 #Download of /878/banking/878_MBCC_20210112.pdf succeeded
+02021/01/13 09:24:51 #Download of /878/banking/878_MBIA_20210112.csv succeeded
+02021/01/13 09:24:51 #Download of /878/banking/878_MBCOB_20210112.csv succeeded
+02021/01/13 09:24:51 #Download of /878/banking/878_MBSR_20210112.csv succeeded
+02021/01/13 09:24:51 #Download of /878/banking/878_MBCAA_20210112.pdf succeeded
+02021/01/13 09:24:51 #Download of /878/banking/878_MBCOB_20210112.pdf succeeded
+02021/01/13 09:24:51 #Download of /878/banking/878_MBIA_20210112.pdf succeeded
+02021/01/13 09:24:51 #Download of /878/banking/878_MBSR_20210112.pdf succeeded
+02021/01/13 09:24:51 #Download of /878/banking/878_MBCD_20210112.csv succeeded
+02021/01/13 09:24:51 #Download of /878/banking/878_MBCOT_20210112.pdf succeeded
+02021/01/13 09:24:51 #Download of /878/banking/878_DCO_CustAcctBalances_20210112_0.csv succeeded
+02021/01/13 09:24:51 #Processing.. OCC_CMO8020711
+02021/01/13 09:25:14 #Processing.. PFPL_PCIFTP
+02021/01/13 09:25:19 #Download of /PFPL/PHILLIP_CloseOut_Trade_PIF_20210112.csv succeeded
+02021/01/13 09:25:19 #Download of /PFPL/PHILLIP_DataFile_Comm_PIF_20210112.csv succeeded
+02021/01/13 09:25:19 #Download of /PFPL/PHILLIP_DataFile_PIF_20210112.csv succeeded
+02021/01/13 09:25:19 #Download of /PFPL/PHILLIP_Financial_Summary_PIF_20210112.csv succeeded
+02021/01/13 09:25:19 #Download of /PFPL/PHILLIP_Open_Position_PIF_20210112.csv succeeded
+02021/01/13 09:25:20 #EndProcess
+02021/01/13 09:26:03 #StartProcess
+02021/01/13 09:26:04 #Processing.. ADM_PCIFTP
+02021/01/13 09:26:07 #Download of /ADM/2021-01-12.aaprlmcsv.csv succeeded
+02021/01/13 09:26:07 #Processing.. CME_F878FTP
+02021/01/13 09:26:11 #Download of /cme/ftp/878/Outgoing/878_COMEX_InventoryList_210112_183115.nr.csv succeeded
+02021/01/13 09:26:11 #Download of /cme/ftp/878/Outgoing/878_COMEX_InventoryList_210112_183228.csv succeeded
+02021/01/13 09:27:08 #Download of /cme/ftp/878/Outgoing/f878.cmerpt.rthcycle succeeded
+02021/01/13 09:27:08 #Processing.. FCS_PCIFTP
+02021/01/13 09:27:16 #Download of /FC Stone/CSVMNYF1_20210112.csv succeeded
+02021/01/13 09:27:16 #Download of /FC Stone/CSVPOSF1_20210112.csv succeeded
+02021/01/13 09:27:16 #Download of /FC Stone/CSVST4F1_20210112.csv succeeded
+02021/01/13 09:27:16 #Download of /FC Stone/CSVTRNF30.20210112.CSV succeeded
+02021/01/13 09:27:16 #Processing.. ICEEU_PCIFTP
+02021/01/13 09:27:22 #Download of /PUS/banking/PUS_MBSR_20210112.csv succeeded
+02021/01/13 09:27:22 #Download of /PUS/banking/PUS_MBCAA_20210112.csv succeeded
+02021/01/13 09:27:22 #Download of /PUS/banking/PUS_MBCAA_20210112.pdf succeeded
+02021/01/13 09:27:22 #Download of /PUS/banking/PUS_MBCD_20210112.csv succeeded
+02021/01/13 09:27:22 #Download of /PUS/banking/PUS_MBCC_20210112.csv succeeded
+02021/01/13 09:27:22 #Download of /PUS/banking/PUS_MBIA_20210112.csv succeeded
+02021/01/13 09:27:23 #Download of /PUS/banking/PUS_MBCC_20210112.pdf succeeded
+02021/01/13 09:27:23 #Download of /PUS/banking/PUS_MBCOT_20210112.csv succeeded
+02021/01/13 09:27:23 #Download of /PUS/banking/PUS_MBCRLD_20210112.csv succeeded
+02021/01/13 09:27:23 #Download of /PUS/banking/PUS_MBCOB_20210112.csv succeeded
+02021/01/13 09:27:23 #Download of /PUS/banking/PUS_MBCAB_20210112.csv succeeded
+02021/01/13 09:27:23 #Download of /PUS/banking/PUS_MBCOT_20210112.pdf succeeded
+02021/01/13 09:27:23 #Download of /PUS/banking/PUS_MBIA_20210112.pdf succeeded
+02021/01/13 09:27:23 #Download of /PUS/banking/PUS_MBCOB_20210112.pdf succeeded
+02021/01/13 09:27:23 #Download of /PUS/banking/PUS_MBSR_20210112.pdf succeeded
+02021/01/13 09:27:23 #Download of /PUS/banking/PUS_MBEP_20210112.csv succeeded
+02021/01/13 09:27:23 #Download of /PUS/banking/PUS_MBEP_20210112.pdf succeeded
+02021/01/13 09:27:23 #Download of /PUS/banking/PUS_DCO_CustAcctBalances_20210112_0.csv succeeded
+02021/01/13 09:27:23 #Processing.. ICEUS_878jrdpaz
+02021/01/13 09:27:28 #Download of /878/banking/878_MBCOT_20210112.csv succeeded
+02021/01/13 09:27:28 #Download of /878/banking/878_MBCAB_20210112.csv succeeded
+02021/01/13 09:27:28 #Download of /878/banking/878_MBCAA_20210112.csv succeeded
+02021/01/13 09:27:28 #Download of /878/banking/878_MBCC_20210112.csv succeeded
+02021/01/13 09:27:28 #Download of /878/banking/878_MBCRLD_20210112.csv succeeded
+02021/01/13 09:27:28 #Download of /878/banking/878_MBCC_20210112.pdf succeeded
+02021/01/13 09:27:28 #Download of /878/banking/878_MBIA_20210112.csv succeeded
+02021/01/13 09:27:28 #Download of /878/banking/878_MBCOB_20210112.csv succeeded
+02021/01/13 09:27:28 #Download of /878/banking/878_MBSR_20210112.csv succeeded
+02021/01/13 09:27:28 #Download of /878/banking/878_MBCAA_20210112.pdf succeeded
+02021/01/13 09:27:28 #Download of /878/banking/878_MBCOB_20210112.pdf succeeded
+02021/01/13 09:27:28 #Download of /878/banking/878_MBIA_20210112.pdf succeeded
+02021/01/13 09:27:28 #Download of /878/banking/878_MBSR_20210112.pdf succeeded
+02021/01/13 09:27:28 #Download of /878/banking/878_MBCD_20210112.csv succeeded
+02021/01/13 09:27:28 #Download of /878/banking/878_MBCOT_20210112.pdf succeeded
+02021/01/13 09:27:28 #Download of /878/banking/878_DCO_CustAcctBalances_20210112_0.csv succeeded
+02021/01/13 09:27:28 #Processing.. OCC_CMO8020711
+02021/01/13 09:27:51 #Exception occured
+02021/01/13 09:27:51 #Network error: Connection to "198.133.169.198" timed out.
+02021/01/13 09:27:51 #Source: WinSCPnet
+02021/01/13 09:27:51 #Inner exception: 
+02021/01/13 09:27:51 #Stack trace:    at WinSCP.SessionLogReader.Read(LogReadFlags flags)
+   at WinSCP.ElementLogReader.Read(LogReadFlags flags)
+   at WinSCP.SessionElementLogReader.Read(LogReadFlags flags)
+   at WinSCP.CustomLogReader.TryWaitForNonEmptyElement(String localName, LogReadFlags flags)
+   at WinSCP.CustomLogReader.WaitForNonEmptyElement(String localName, LogReadFlags flags)
+   at WinSCP.CustomLogReader.WaitForNonEmptyElementAndCreateLogReader(String localName, LogReadFlags flags)
+   at WinSCP.CustomLogReader.WaitForGroupAndCreateLogReader()
+   at WinSCP.Session.WaitForGroup()
+   at WinSCP.Session.Open(SessionOptions sessionOptions)
+   at PCI.Helpers.WinSCPHelper.CreateSFTPSession(SessionOptions sessionOptions, List`1 fileCollection, LogHelper log, Int32 toProcessDay) in C:\Codes\PCI\PCI-ConsoleApp\PCI.Helpers\WinSCPHelper.cs:line 85
+02021/01/13 09:27:51 #Processing.. PFPL_PCIFTP
+02021/01/13 09:27:55 #Download of /PFPL/PHILLIP_CloseOut_Trade_PIF_20210112.csv succeeded
+02021/01/13 09:27:55 #Download of /PFPL/PHILLIP_DataFile_Comm_PIF_20210112.csv succeeded
+02021/01/13 09:27:55 #Download of /PFPL/PHILLIP_DataFile_PIF_20210112.csv succeeded
+02021/01/13 09:27:55 #Download of /PFPL/PHILLIP_Financial_Summary_PIF_20210112.csv succeeded
+02021/01/13 09:27:55 #Download of /PFPL/PHILLIP_Open_Position_PIF_20210112.csv succeeded
+02021/01/13 09:27:56 #EndProcess
+02021/01/13 09:28:11 #StartProcess
+02021/01/13 09:28:11 #Processing.. ADM_PCIFTP
+02021/01/13 09:28:15 #Download of /ADM/2021-01-12.aaprlmcsv.csv succeeded
+02021/01/13 09:28:15 #Processing.. CME_F878FTP
+02021/01/13 09:28:19 #Download of /cme/ftp/878/Outgoing/878_COMEX_InventoryList_210112_183115.nr.csv succeeded
+02021/01/13 09:28:19 #Download of /cme/ftp/878/Outgoing/878_COMEX_InventoryList_210112_183228.csv succeeded
+02021/01/13 09:29:07 #Download of /cme/ftp/878/Outgoing/f878.cmerpt.rthcycle succeeded
+02021/01/13 09:29:07 #Processing.. FCS_PCIFTP
+02021/01/13 09:29:15 #Download of /FC Stone/CSVMNYF1_20210112.csv succeeded
+02021/01/13 09:29:15 #Download of /FC Stone/CSVPOSF1_20210112.csv succeeded
+02021/01/13 09:29:15 #Download of /FC Stone/CSVST4F1_20210112.csv succeeded
+02021/01/13 09:29:15 #Download of /FC Stone/CSVTRNF30.20210112.CSV succeeded
+02021/01/13 09:29:15 #Processing.. ICEEU_PCIFTP
+02021/01/13 09:29:21 #Download of /PUS/banking/PUS_MBSR_20210112.csv succeeded
+02021/01/13 09:29:21 #Download of /PUS/banking/PUS_MBCAA_20210112.csv succeeded
+02021/01/13 09:29:21 #Download of /PUS/banking/PUS_MBCAA_20210112.pdf succeeded
+02021/01/13 09:29:21 #Download of /PUS/banking/PUS_MBCD_20210112.csv succeeded
+02021/01/13 09:29:21 #Download of /PUS/banking/PUS_MBCC_20210112.csv succeeded
+02021/01/13 09:29:21 #Download of /PUS/banking/PUS_MBIA_20210112.csv succeeded
+02021/01/13 09:29:21 #Download of /PUS/banking/PUS_MBCC_20210112.pdf succeeded
+02021/01/13 09:29:21 #Download of /PUS/banking/PUS_MBCOT_20210112.csv succeeded
+02021/01/13 09:29:21 #Download of /PUS/banking/PUS_MBCRLD_20210112.csv succeeded
+02021/01/13 09:29:21 #Download of /PUS/banking/PUS_MBCOB_20210112.csv succeeded
+02021/01/13 09:29:21 #Download of /PUS/banking/PUS_MBCAB_20210112.csv succeeded
+02021/01/13 09:29:21 #Download of /PUS/banking/PUS_MBCOT_20210112.pdf succeeded
+02021/01/13 09:29:21 #Download of /PUS/banking/PUS_MBIA_20210112.pdf succeeded
+02021/01/13 09:29:21 #Download of /PUS/banking/PUS_MBCOB_20210112.pdf succeeded
+02021/01/13 09:29:21 #Download of /PUS/banking/PUS_MBSR_20210112.pdf succeeded
+02021/01/13 09:29:21 #Download of /PUS/banking/PUS_MBEP_20210112.csv succeeded
+02021/01/13 09:29:21 #Download of /PUS/banking/PUS_MBEP_20210112.pdf succeeded
+02021/01/13 09:29:21 #Download of /PUS/banking/PUS_DCO_CustAcctBalances_20210112_0.csv succeeded
+02021/01/13 09:29:21 #Processing.. ICEUS_878jrdpaz
+02021/01/13 09:29:26 #Download of /878/banking/878_MBCOT_20210112.csv succeeded
+02021/01/13 09:29:26 #Download of /878/banking/878_MBCAB_20210112.csv succeeded
+02021/01/13 09:29:26 #Download of /878/banking/878_MBCAA_20210112.csv succeeded
+02021/01/13 09:29:26 #Download of /878/banking/878_MBCC_20210112.csv succeeded
+02021/01/13 09:29:26 #Download of /878/banking/878_MBCRLD_20210112.csv succeeded
+02021/01/13 09:29:26 #Download of /878/banking/878_MBCC_20210112.pdf succeeded
+02021/01/13 09:29:26 #Download of /878/banking/878_MBIA_20210112.csv succeeded
+02021/01/13 09:29:26 #Download of /878/banking/878_MBCOB_20210112.csv succeeded
+02021/01/13 09:29:26 #Download of /878/banking/878_MBSR_20210112.csv succeeded
+02021/01/13 09:29:26 #Download of /878/banking/878_MBCAA_20210112.pdf succeeded
+02021/01/13 09:29:26 #Download of /878/banking/878_MBCOB_20210112.pdf succeeded
+02021/01/13 09:29:26 #Download of /878/banking/878_MBIA_20210112.pdf succeeded
+02021/01/13 09:29:26 #Download of /878/banking/878_MBSR_20210112.pdf succeeded
+02021/01/13 09:29:26 #Download of /878/banking/878_MBCD_20210112.csv succeeded
+02021/01/13 09:29:26 #Download of /878/banking/878_MBCOT_20210112.pdf succeeded
+02021/01/13 09:29:26 #Download of /878/banking/878_DCO_CustAcctBalances_20210112_0.csv succeeded
+02021/01/13 09:29:26 #Processing.. OCC_CMO8020711
+02021/01/13 09:29:29 #Download of /data/rx167l.20210112 succeeded
+02021/01/13 09:29:29 #Download of /data/rx167e.20210112 succeeded
+02021/01/13 09:29:30 #Processing.. PFPL_PCIFTP
+02021/01/13 09:29:34 #Download of /PFPL/PHILLIP_CloseOut_Trade_PIF_20210112.csv succeeded
+02021/01/13 09:29:34 #Download of /PFPL/PHILLIP_DataFile_Comm_PIF_20210112.csv succeeded
+02021/01/13 09:29:34 #Download of /PFPL/PHILLIP_DataFile_PIF_20210112.csv succeeded
+02021/01/13 09:29:34 #Download of /PFPL/PHILLIP_Financial_Summary_PIF_20210112.csv succeeded
+02021/01/13 09:29:34 #Download of /PFPL/PHILLIP_Open_Position_PIF_20210112.csv succeeded
+02021/01/13 09:29:34 #EndProcess

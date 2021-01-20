@@ -1,0 +1,14 @@
+C:\Codes\PCI\PCI-ConsoleApp\SecuritiesReports\bin\Debug\netcoreapp3.1\SecuritiesReports.exe
+C:\Codes\PCI\PCI-ConsoleApp\SecuritiesReports\bin\Debug\netcoreapp3.1\SecuritiesReports.deps.json
+C:\Codes\PCI\PCI-ConsoleApp\SecuritiesReports\bin\Debug\netcoreapp3.1\SecuritiesReports.runtimeconfig.json
+C:\Codes\PCI\PCI-ConsoleApp\SecuritiesReports\bin\Debug\netcoreapp3.1\SecuritiesReports.runtimeconfig.dev.json
+C:\Codes\PCI\PCI-ConsoleApp\SecuritiesReports\bin\Debug\netcoreapp3.1\SecuritiesReports.dll
+C:\Codes\PCI\PCI-ConsoleApp\SecuritiesReports\bin\Debug\netcoreapp3.1\SecuritiesReports.pdb
+C:\Codes\PCI\PCI-ConsoleApp\SecuritiesReports\obj\Debug\netcoreapp3.1\SecuritiesReports.AssemblyInfoInputs.cache
+C:\Codes\PCI\PCI-ConsoleApp\SecuritiesReports\obj\Debug\netcoreapp3.1\SecuritiesReports.AssemblyInfo.cs
+C:\Codes\PCI\PCI-ConsoleApp\SecuritiesReports\obj\Debug\netcoreapp3.1\SecuritiesReports.dll
+C:\Codes\PCI\PCI-ConsoleApp\SecuritiesReports\obj\Debug\netcoreapp3.1\SecuritiesReports.pdb
+C:\Codes\PCI\PCI-ConsoleApp\SecuritiesReports\bin\Debug\netcoreapp3.1\Microsoft.SharePoint.Client.Runtime.dll
+C:\Codes\PCI\PCI-ConsoleApp\SecuritiesReports\bin\Debug\netcoreapp3.1\Microsoft.SharePoint.Client.dll
+C:\Codes\PCI\PCI-ConsoleApp\SecuritiesReports\obj\Debug\netcoreapp3.1\SecuritiesReports.csprojAssemblyReference.cache
+C:\Codes\PCI\PCI-ConsoleApp\SecuritiesReports\obj\Debug\netcoreapp3.1\SecuritiesReports.csproj.CopyComplete

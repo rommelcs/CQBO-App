@@ -1,0 +1,59 @@
+02020/12/30 08:10:58 #StartProcess
+02020/12/30 08:12:34 #StartProcess
+02020/12/30 08:14:28 #StartProcess
+02020/12/30 09:35:20 #StartProcess
+02020/12/30 10:01:40 #StartProcess
+02020/12/30 10:03:25 #StartProcess
+02020/12/30 10:04:05 #EndProcess
+02020/12/30 10:32:00 #StartProcess
+02020/12/30 10:33:07 #StartProcess
+02020/12/30 10:33:24 #EndProcess
+02020/12/30 10:39:25 #StartProcess
+02020/12/30 10:43:30 #StartProcess
+02020/12/30 10:43:42 #EndProcess
+02020/12/30 12:15:59 #StartProcess
+02020/12/30 12:16:46 #EndProcess
+02020/12/30 01:02:25 #StartProcess
+02020/12/30 01:03:06 #EndProcess
+02020/12/30 01:14:36 #StartProcess
+02020/12/30 01:29:57 #StartProcess
+02020/12/30 01:37:39 #StartProcess
+02020/12/30 01:39:20 #StartProcess
+02020/12/30 01:39:40 #StartProcess
+02020/12/30 01:52:16 #StartProcess
+02020/12/30 01:55:03 #StartProcess
+02020/12/30 01:55:07 #EndProcess
+02020/12/30 02:37:46 #StartProcess
+02020/12/30 02:37:47 #Exception occured
+02020/12/30 02:37:47 #Object cannot be cast from DBNull to other types.
+02020/12/30 02:37:47 #Source: PCI.FileCollector
+02020/12/30 02:37:47 #Inner exception: 
+02020/12/30 02:37:47 #Stack trace:    at PCI.FileCollector.DAL.AppDAL.GetSFTPAppSettings() in C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\DAL\AppDAL.cs:line 63
+   at PCIFileCollector.Program.CollectSFTPFiles() in C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\Program.cs:line 49
+   at PCIFileCollector.Program.Main(String[] args) in C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\Program.cs:line 25
+02020/12/30 02:38:11 #StartProcess
+02020/12/30 02:39:26 #StartProcess
+02020/12/30 03:10:37 #StartProcess
+02020/12/30 03:14:27 #StartProcess
+02020/12/30 03:50:13 #StartProcess
+02020/12/30 03:50:55 #EndProcess
+02020/12/30 03:50:59 #StartProcess
+02020/12/30 03:53:21 #StartProcess
+02020/12/30 03:55:35 #StartProcess
+02020/12/30 03:57:06 #StartProcess
+02020/12/30 03:59:23 #StartProcess
+02020/12/30 04:02:05 #StartProcess
+02020/12/30 04:06:09 #StartProcess
+02020/12/30 04:07:13 #EndProcess
+02020/12/30 04:17:04 #StartProcess
+02020/12/30 04:17:50 #EndProcess
+02020/12/30 04:23:20 #StartProcess
+02020/12/30 04:23:24 #EndProcess
+02020/12/30 04:23:49 #StartProcess
+02020/12/30 04:33:34 #StartProcess
+02020/12/30 04:35:47 #StartProcess
+02020/12/30 04:37:27 #StartProcess
+02020/12/30 04:39:35 #StartProcess
+02020/12/30 04:50:18 #StartProcess
+02020/12/30 07:34:06 #StartProcess
+02020/12/30 07:35:17 #EndProcess

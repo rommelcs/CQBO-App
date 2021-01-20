@@ -1,0 +1,5 @@
+C:\Codes\PCI\PCI-ConsoleApp\PCI.DAL\bin\Debug\netcoreapp3.1\PCI.DAL.deps.json
+C:\Codes\PCI\PCI-ConsoleApp\PCI.DAL\bin\Debug\netcoreapp3.1\PCI.DAL.dll
+C:\Codes\PCI\PCI-ConsoleApp\PCI.DAL\obj\Debug\netcoreapp3.1\PCI.DAL.csprojAssemblyReference.cache
+C:\Codes\PCI\PCI-ConsoleApp\PCI.DAL\obj\Debug\netcoreapp3.1\PCI.DAL.AssemblyInfoInputs.cache
+C:\Codes\PCI\PCI-ConsoleApp\PCI.DAL\obj\Debug\netcoreapp3.1\PCI.DAL.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\bin\Debug\netcoreapp3.1\PCIFileCollector.exe
+C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\bin\Debug\netcoreapp3.1\PCIFileCollector.deps.json
+C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\bin\Debug\netcoreapp3.1\PCIFileCollector.runtimeconfig.json
+C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\bin\Debug\netcoreapp3.1\PCIFileCollector.runtimeconfig.dev.json
+C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\bin\Debug\netcoreapp3.1\PCIFileCollector.dll
+C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\bin\Debug\netcoreapp3.1\PCIFileCollector.pdb
+C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\obj\Debug\netcoreapp3.1\PCIFileCollector.AssemblyInfoInputs.cache
+C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\obj\Debug\netcoreapp3.1\PCIFileCollector.AssemblyInfo.cs
+C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\obj\Debug\netcoreapp3.1\PCIFileCollector.dll
+C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\obj\Debug\netcoreapp3.1\PCIFileCollector.pdb
+C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\obj\Debug\netcoreapp3.1\PCIFileCollector.csprojAssemblyReference.cache

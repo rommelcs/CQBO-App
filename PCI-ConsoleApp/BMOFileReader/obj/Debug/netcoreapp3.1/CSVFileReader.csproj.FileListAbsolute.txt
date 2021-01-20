@@ -1,0 +1,126 @@
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\bin\Debug\netcoreapp3.1\CSVFileReader.exe
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\bin\Debug\netcoreapp3.1\CSVFileReader.deps.json
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\bin\Debug\netcoreapp3.1\CSVFileReader.runtimeconfig.json
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\bin\Debug\netcoreapp3.1\CSVFileReader.runtimeconfig.dev.json
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\bin\Debug\netcoreapp3.1\CSVFileReader.dll
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\bin\Debug\netcoreapp3.1\CSVFileReader.pdb
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\obj\Debug\netcoreapp3.1\CSVFileReader.csprojAssemblyReference.cache
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\obj\Debug\netcoreapp3.1\CSVFileReader.AssemblyInfoInputs.cache
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\obj\Debug\netcoreapp3.1\CSVFileReader.AssemblyInfo.cs
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\obj\Debug\netcoreapp3.1\CSVFileReader.dll
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\obj\Debug\netcoreapp3.1\CSVFileReader.pdb
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\obj\Debug\netcoreapp3.1\CSVFileReader.genruntimeconfig.cache
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\obj\Debug\netcoreapp3.1\CSVFileReader.csproj.CopyComplete
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\bin\Debug\netcoreapp3.1\CSVFileReader.dll.config
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\obj\Debug\netcoreapp3.1\CSVFileReader.csproj.CoreCompileInputs.cache
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shubana\source\repos\CSVFileReader\CSVFileReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\bin\Debug\netcoreapp3.1\CSVFileReader.exe
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\bin\Debug\netcoreapp3.1\CSVFileReader.dll.config
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\bin\Debug\netcoreapp3.1\CSVFileReader.deps.json
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\bin\Debug\netcoreapp3.1\CSVFileReader.runtimeconfig.json
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\bin\Debug\netcoreapp3.1\CSVFileReader.runtimeconfig.dev.json
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\bin\Debug\netcoreapp3.1\CSVFileReader.dll
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\bin\Debug\netcoreapp3.1\CSVFileReader.pdb
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\obj\Debug\netcoreapp3.1\CSVFileReader.csprojAssemblyReference.cache
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\obj\Debug\netcoreapp3.1\CSVFileReader.csproj.CoreCompileInputs.cache
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\obj\Debug\netcoreapp3.1\CSVFileReader.AssemblyInfoInputs.cache
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\obj\Debug\netcoreapp3.1\CSVFileReader.AssemblyInfo.cs
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\obj\Debug\netcoreapp3.1\CSVFileReader.csproj.CopyComplete
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\obj\Debug\netcoreapp3.1\CSVFileReader.dll
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\obj\Debug\netcoreapp3.1\CSVFileReader.pdb
+C:\Users\shubana\Documents\GitHub\Development\01_Master\CSVFIleReader\CSVFileReader\obj\Debug\netcoreapp3.1\CSVFileReader.genruntimeconfig.cache
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\bin\Debug\netcoreapp3.1\CSVFileReader.exe
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\bin\Debug\netcoreapp3.1\CSVFileReader.dll.config
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\bin\Debug\netcoreapp3.1\CSVFileReader.deps.json
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\bin\Debug\netcoreapp3.1\CSVFileReader.runtimeconfig.json
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\bin\Debug\netcoreapp3.1\CSVFileReader.runtimeconfig.dev.json
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\bin\Debug\netcoreapp3.1\CSVFileReader.dll
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\bin\Debug\netcoreapp3.1\CSVFileReader.pdb
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\obj\Debug\netcoreapp3.1\CSVFileReader.csprojAssemblyReference.cache
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\obj\Debug\netcoreapp3.1\CSVFileReader.csproj.CoreCompileInputs.cache
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\obj\Debug\netcoreapp3.1\CSVFileReader.AssemblyInfoInputs.cache
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\obj\Debug\netcoreapp3.1\CSVFileReader.AssemblyInfo.cs
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\obj\Debug\netcoreapp3.1\CSVFileReader.csproj.CopyComplete
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\obj\Debug\netcoreapp3.1\CSVFileReader.dll
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\obj\Debug\netcoreapp3.1\CSVFileReader.pdb
+D:\Working Folder\2020\02_PhillipUS\Projects\12_CSVFileReader(Part2)\SOurceCode\obj\Debug\netcoreapp3.1\CSVFileReader.genruntimeconfig.cache
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\bin\Debug\netcoreapp3.1\CSVFileReader.exe
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\bin\Debug\netcoreapp3.1\CSVFileReader.dll.config
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\bin\Debug\netcoreapp3.1\CSVFileReader.deps.json
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\bin\Debug\netcoreapp3.1\CSVFileReader.runtimeconfig.json
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\bin\Debug\netcoreapp3.1\CSVFileReader.runtimeconfig.dev.json
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\bin\Debug\netcoreapp3.1\CSVFileReader.dll
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\bin\Debug\netcoreapp3.1\CSVFileReader.pdb
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\obj\Debug\netcoreapp3.1\CSVFileReader.csprojAssemblyReference.cache
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\obj\Debug\netcoreapp3.1\CSVFileReader.AssemblyInfoInputs.cache
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\obj\Debug\netcoreapp3.1\CSVFileReader.AssemblyInfo.cs
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\obj\Debug\netcoreapp3.1\CSVFileReader.csproj.CopyComplete
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\obj\Debug\netcoreapp3.1\CSVFileReader.dll
+C:\Codes\PCI\PCI-ConsoleApp\BMOFileReader\obj\Debug\netcoreapp3.1\CSVFileReader.pdb

@@ -1,0 +1,102 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Working Folder\\2020\\02_PhillipUS\\Projects\\13_CSVFileReader_AML_Citi\\02_SouceCode\\ReadExcelFile\\CSVFileReader.csproj": {}
+  },
+  "projects": {
+    "D:\\Working Folder\\2020\\02_PhillipUS\\Projects\\13_CSVFileReader_AML_Citi\\02_SouceCode\\ReadExcelFile\\CSVFileReader.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Working Folder\\2020\\02_PhillipUS\\Projects\\13_CSVFileReader_AML_Citi\\02_SouceCode\\ReadExcelFile\\CSVFileReader.csproj",
+        "projectName": "CSVFileReader",
+        "projectPath": "D:\\Working Folder\\2020\\02_PhillipUS\\Projects\\13_CSVFileReader_AML_Citi\\02_SouceCode\\ReadExcelFile\\CSVFileReader.csproj",
+        "packagesPath": "C:\\Users\\shubana\\.nuget\\packages\\",
+        "outputPath": "D:\\Working Folder\\2020\\02_PhillipUS\\Projects\\13_CSVFileReader_AML_Citi\\02_SouceCode\\ReadExcelFile\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\shubana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.95.3, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "ExcelDataReader": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "ExcelDataReader.DataSet": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "GemBox.Spreadsheet": {
+              "target": "Package",
+              "version": "[45.0.1187, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            },
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[4.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

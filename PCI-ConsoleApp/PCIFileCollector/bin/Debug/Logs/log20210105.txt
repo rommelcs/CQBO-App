@@ -1,0 +1,33 @@
+02021/01/05 11:52:27 #StartProcess
+02021/01/05 11:52:30 #Exception occured
+02021/01/05 11:52:30 #Object cannot be cast from DBNull to other types.
+02021/01/05 11:52:30 #Source: PCI.FileCollector
+02021/01/05 11:52:30 #Inner exception: 
+02021/01/05 11:52:30 #Stack trace:    at PCI.FileCollector.DAL.AppDAL.GetSFTPAppSettings() in C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\DAL\AppDAL.cs:line 64
+   at PCIFileCollector.Program.CollectSFTPFiles() in C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\Program.cs:line 49
+   at PCIFileCollector.Program.Main(String[] args) in C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\Program.cs:line 25
+02021/01/05 11:52:50 #StartProcess
+02021/01/05 11:52:51 #Exception occured
+02021/01/05 11:52:51 #Object cannot be cast from DBNull to other types.
+02021/01/05 11:52:51 #Source: PCI.FileCollector
+02021/01/05 11:52:51 #Inner exception: 
+02021/01/05 11:52:51 #Stack trace:    at PCI.FileCollector.DAL.AppDAL.GetSFTPAppSettings() in C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\DAL\AppDAL.cs:line 64
+   at PCIFileCollector.Program.CollectSFTPFiles() in C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\Program.cs:line 49
+   at PCIFileCollector.Program.Main(String[] args) in C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\Program.cs:line 25
+02021/01/05 11:53:43 #StartProcess
+02021/01/05 11:53:44 #Exception occured
+02021/01/05 11:53:44 #Object cannot be cast from DBNull to other types.
+02021/01/05 11:53:44 #Source: PCI.FileCollector
+02021/01/05 11:53:44 #Inner exception: 
+02021/01/05 11:53:44 #Stack trace:    at PCI.FileCollector.DAL.AppDAL.GetSFTPAppSettings() in C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\DAL\AppDAL.cs:line 64
+   at PCIFileCollector.Program.CollectSFTPFiles() in C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\Program.cs:line 49
+   at PCIFileCollector.Program.Main(String[] args) in C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\Program.cs:line 25
+02021/01/05 11:54:26 #StartProcess
+02021/01/05 11:57:57 #StartProcess
+02021/01/05 11:58:42 #EndProcess
+02021/01/05 12:56:01 #StartProcess
+02021/01/05 12:57:16 #StartProcess
+02021/01/05 02:48:11 #StartProcess
+02021/01/05 02:51:38 #EndProcess
+02021/01/05 08:47:31 #StartProcess
+02021/01/05 08:48:54 #EndProcess

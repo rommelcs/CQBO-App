@@ -1,0 +1,11 @@
+C:\Codes\PCI\PCI-ConsoleApp\IceDeltaAPI\bin\Debug\netcoreapp3.1\IceDeltaAPI.exe
+C:\Codes\PCI\PCI-ConsoleApp\IceDeltaAPI\bin\Debug\netcoreapp3.1\IceDeltaAPI.deps.json
+C:\Codes\PCI\PCI-ConsoleApp\IceDeltaAPI\bin\Debug\netcoreapp3.1\IceDeltaAPI.runtimeconfig.json
+C:\Codes\PCI\PCI-ConsoleApp\IceDeltaAPI\bin\Debug\netcoreapp3.1\IceDeltaAPI.runtimeconfig.dev.json
+C:\Codes\PCI\PCI-ConsoleApp\IceDeltaAPI\bin\Debug\netcoreapp3.1\IceDeltaAPI.dll
+C:\Codes\PCI\PCI-ConsoleApp\IceDeltaAPI\bin\Debug\netcoreapp3.1\IceDeltaAPI.pdb
+C:\Codes\PCI\PCI-ConsoleApp\IceDeltaAPI\obj\Debug\netcoreapp3.1\IceDeltaAPI.csprojAssemblyReference.cache
+C:\Codes\PCI\PCI-ConsoleApp\IceDeltaAPI\obj\Debug\netcoreapp3.1\IceDeltaAPI.AssemblyInfoInputs.cache
+C:\Codes\PCI\PCI-ConsoleApp\IceDeltaAPI\obj\Debug\netcoreapp3.1\IceDeltaAPI.AssemblyInfo.cs
+C:\Codes\PCI\PCI-ConsoleApp\IceDeltaAPI\obj\Debug\netcoreapp3.1\IceDeltaAPI.dll
+C:\Codes\PCI\PCI-ConsoleApp\IceDeltaAPI\obj\Debug\netcoreapp3.1\IceDeltaAPI.pdb

@@ -1,0 +1,104 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WinSCP/5.17.9": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/WinSCPnet.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/WinSCPnet.dll": {}
+        },
+        "build": {
+          "build/WinSCP.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinSCP/5.17.9": {
+      "sha512": "t0hX9mTPmOrpOJUTWzqnosNv62vM7ARt19aet+xssHsMziXMU7I/oh8zIY7JnQZr1gVxzcFadfIjmiOqZmWuMA==",
+      "type": "package",
+      "path": "winscp/5.17.9",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/WinSCP.targets",
+        "lib/net40/WinSCPnet.dll",
+        "lib/netstandard2.0/WinSCPnet.dll",
+        "tools/WinSCP.exe",
+        "winscp.5.17.9.nupkg.sha512",
+        "winscp.nuspec",
+        "winscp64.png"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "WinSCP >= 5.17.9"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\rcortezano\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Codes\\PCI\\PCI-ConsoleApp\\PCI.Helpers\\PCI.Helpers.csproj",
+      "projectName": "PCI.Helpers",
+      "projectPath": "C:\\Codes\\PCI\\PCI-ConsoleApp\\PCI.Helpers\\PCI.Helpers.csproj",
+      "packagesPath": "C:\\Users\\rcortezano\\.nuget\\packages\\",
+      "outputPath": "C:\\Codes\\PCI\\PCI-ConsoleApp\\PCI.Helpers\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\rcortezano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://www.nuget.org/api/v2/": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "WinSCP": {
+            "target": "Package",
+            "version": "[5.17.9, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

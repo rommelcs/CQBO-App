@@ -1,0 +1,125 @@
+02021/01/11 08:21:11 #StartProcess
+02021/01/11 08:21:12 #Processing.. OCC_CMO8020711
+02021/01/11 08:23:00 #EndProcess
+02021/01/11 08:23:04 #StartProcess
+02021/01/11 08:23:04 #Processing.. OCC_CMO8020711
+02021/01/11 08:24:34 #StartProcess
+02021/01/11 08:24:34 #Processing.. OCC_CMO8020711
+02021/01/11 08:25:52 #StartProcess
+02021/01/11 08:25:52 #Processing.. OCC_CMO8020711
+02021/01/11 08:26:07 #EndProcess
+02021/01/11 08:26:28 #StartProcess
+02021/01/11 08:26:29 #Processing.. OCC_CMO8020711
+02021/01/11 08:27:39 #EndProcess
+02021/01/11 08:28:41 #StartProcess
+02021/01/11 08:28:42 #Processing.. OCC_CMO8020711
+02021/01/11 08:28:47 #EndProcess
+02021/01/11 08:29:44 #StartProcess
+02021/01/11 08:29:44 #Processing.. OCC_CMO8020711
+02021/01/11 08:30:38 #EndProcess
+02021/01/11 09:56:03 #StartProcess
+02021/01/11 09:56:03 #Processing.. OCC_CMO8020711
+02021/01/11 09:56:52 #EndProcess
+02021/01/11 09:57:47 #StartProcess
+02021/01/11 09:57:48 #Processing.. OCC_CMO8020711
+02021/01/11 10:00:59 #StartProcess
+02021/01/11 10:00:59 #Processing.. OCC_CMO8020711
+02021/01/11 10:01:08 #EndProcess
+02021/01/11 10:01:15 #StartProcess
+02021/01/11 10:01:16 #Processing.. OCC_CMO8020711
+02021/01/11 10:02:24 #StartProcess
+02021/01/11 10:02:25 #Processing.. OCC_CMO8020711
+02021/01/11 10:03:09 #StartProcess
+02021/01/11 10:03:10 #Processing.. OCC_CMO8020711
+02021/01/11 10:03:14 #EndProcess
+02021/01/11 10:03:22 #StartProcess
+02021/01/11 10:03:22 #Processing.. OCC_CMO8020711
+02021/01/11 10:08:09 #StartProcess
+02021/01/11 10:08:09 #Processing.. OCC_CMO8020711
+02021/01/11 10:08:17 #EndProcess
+02021/01/11 10:09:02 #StartProcess
+02021/01/11 10:09:03 #Processing.. OCC_CMO8020711
+02021/01/11 10:09:13 #StartProcess
+02021/01/11 10:09:14 #Processing.. ADM_PCIFTP
+02021/01/11 10:09:22 #/ADM/2021-01-08.aaprlmcsv.csv - File not exist
+02021/01/11 10:09:22 #Processing.. CME_F878FTP
+02021/01/11 10:09:24 #Download of /cme/ftp/878/Outgoing/878_COMEX_InventoryList_210108_183140.nr.csv succeeded
+02021/01/11 10:09:24 #Download of /cme/ftp/878/Outgoing/878_COMEX_InventoryList_210108_183254.csv succeeded
+02021/01/11 10:09:28 #Download of /cme/ftp/878/Outgoing/f878.cmerpt.rthcycle succeeded
+02021/01/11 10:09:29 #Processing.. FCS_PCIFTP
+02021/01/11 10:09:34 #Download of /FC Stone/CSVMNYF1_20210108.csv succeeded
+02021/01/11 10:09:34 #Download of /FC Stone/CSVPOSF1_20210108.csv succeeded
+02021/01/11 10:09:34 #Download of /FC Stone/CSVST4F1_20210108.csv succeeded
+02021/01/11 10:09:34 #Download of /FC Stone/CSVTRNF30.20210108.CSV succeeded
+02021/01/11 10:09:34 #Processing.. ICEEU_PCIFTP
+02021/01/11 10:09:37 #Download of /PUS/banking/PUS_MBCD_20210108.csv succeeded
+02021/01/11 10:09:37 #Download of /PUS/banking/PUS_MBCOB_20210108.csv succeeded
+02021/01/11 10:09:37 #Download of /PUS/banking/PUS_MBCAA_20210108.csv succeeded
+02021/01/11 10:09:37 #Download of /PUS/banking/PUS_MBCC_20210108.pdf succeeded
+02021/01/11 10:09:37 #Download of /PUS/banking/PUS_MBCRLD_20210108.csv succeeded
+02021/01/11 10:09:37 #Download of /PUS/banking/PUS_MBCC_20210108.csv succeeded
+02021/01/11 10:09:37 #Download of /PUS/banking/PUS_MBCOT_20210108.pdf succeeded
+02021/01/11 10:09:37 #Download of /PUS/banking/PUS_MBCAB_20210108.csv succeeded
+02021/01/11 10:09:37 #Download of /PUS/banking/PUS_MBCOT_20210108.csv succeeded
+02021/01/11 10:09:37 #Download of /PUS/banking/PUS_MBSR_20210108.csv succeeded
+02021/01/11 10:09:37 #Download of /PUS/banking/PUS_MBCAA_20210108.pdf succeeded
+02021/01/11 10:09:37 #Download of /PUS/banking/PUS_MBIA_20210108.csv succeeded
+02021/01/11 10:09:37 #Download of /PUS/banking/PUS_MBCOB_20210108.pdf succeeded
+02021/01/11 10:09:37 #Download of /PUS/banking/PUS_MBIA_20210108.pdf succeeded
+02021/01/11 10:09:37 #Download of /PUS/banking/PUS_MBSR_20210108.pdf succeeded
+02021/01/11 10:09:37 #Download of /PUS/banking/PUS_MBEP_20210108.csv succeeded
+02021/01/11 10:09:37 #Download of /PUS/banking/PUS_MBEP_20210108.pdf succeeded
+02021/01/11 10:09:37 #Download of /PUS/banking/PUS_DCO_CustAcctBalances_20210108_0.csv succeeded
+02021/01/11 10:09:37 #Processing.. ICEUS_878jrdpaz
+02021/01/11 10:09:39 #Download of /878/banking/878_MBCAB_20210108.csv succeeded
+02021/01/11 10:09:39 #Download of /878/banking/878_MBCAA_20210108.csv succeeded
+02021/01/11 10:09:39 #Download of /878/banking/878_MBCOT_20210108.csv succeeded
+02021/01/11 10:09:39 #Download of /878/banking/878_MBCOB_20210108.csv succeeded
+02021/01/11 10:09:39 #Download of /878/banking/878_MBIA_20210108.csv succeeded
+02021/01/11 10:09:39 #Download of /878/banking/878_MBIA_20210108.pdf succeeded
+02021/01/11 10:09:39 #Download of /878/banking/878_MBSR_20210108.csv succeeded
+02021/01/11 10:09:39 #Download of /878/banking/878_MBCC_20210108.pdf succeeded
+02021/01/11 10:09:39 #Download of /878/banking/878_MBCAA_20210108.pdf succeeded
+02021/01/11 10:09:39 #Download of /878/banking/878_MBSR_20210108.pdf succeeded
+02021/01/11 10:09:39 #Download of /878/banking/878_MBCOB_20210108.pdf succeeded
+02021/01/11 10:09:39 #Download of /878/banking/878_MBCC_20210108.csv succeeded
+02021/01/11 10:09:39 #Download of /878/banking/878_MBCOT_20210108.pdf succeeded
+02021/01/11 10:09:39 #Download of /878/banking/878_MBCRLD_20210108.csv succeeded
+02021/01/11 10:09:39 #Download of /878/banking/878_MBCD_20210108.csv succeeded
+02021/01/11 10:09:39 #Download of /878/banking/878_DCO_CustAcctBalances_20210108_0.csv succeeded
+02021/01/11 10:09:39 #Processing.. OCC_CMO8020711
+02021/01/11 10:09:41 #EndProcess
+02021/01/11 10:16:26 #StartProcess
+02021/01/11 10:16:27 #Processing.. OCC_CMO8020711
+02021/01/11 10:16:30 #Download of /data/rx167e.20210108 succeeded
+02021/01/11 10:16:30 #Download of /data/rx167l.20210108 succeeded
+02021/01/11 10:16:31 #EndProcess
+02021/01/11 10:16:58 #StartProcess
+02021/01/11 10:16:59 #Processing.. OCC_CMO8020711
+02021/01/11 10:17:02 #Download of /data/rx167e.20210108 succeeded
+02021/01/11 10:17:02 #Download of /data/rx167l.20210108 succeeded
+02021/01/11 10:17:02 #EndProcess
+02021/01/11 12:05:30 #StartProcess
+02021/01/11 12:05:31 #Processing.. PFPL_PCIFTP
+02021/01/11 12:05:31 #EndProcess
+02021/01/11 12:05:59 #StartProcess
+02021/01/11 12:06:00 #Processing.. PFPL_PCIFTP
+02021/01/11 12:06:00 #EndProcess
+02021/01/11 12:06:12 #StartProcess
+02021/01/11 12:06:19 #Processing.. PFPL_PCIFTP
+02021/01/11 12:07:41 #StartProcess
+02021/01/11 12:07:49 #Processing.. PFPL_PCIFTP
+02021/01/11 12:08:02 #Download of /PFPL/PHILLIP_CloseOut_Trade_PIF_20210108.csv succeeded
+02021/01/11 12:08:02 #Download of /PFPL/PHILLIP_DataFile_Comm_PIF_20210108.csv succeeded
+02021/01/11 12:08:02 #Download of /PFPL/PHILLIP_DataFile_PIF_20210108.csv succeeded
+02021/01/11 12:08:02 #Download of /PFPL/PHILLIP_Financial_Summary_PIF_20210108.csv succeeded
+02021/01/11 12:08:02 #Download of /PFPL/PHILLIP_Open_Position_PIF_20210108.csv succeeded
+02021/01/11 12:08:11 #EndProcess
+02021/01/11 12:08:26 #StartProcess
+02021/01/11 12:08:30 #Processing.. PFPL_PCIFTP
+02021/01/11 12:08:34 #Download of /PFPL/PHILLIP_CloseOut_Trade_PIF_20210107.csv succeeded
+02021/01/11 12:08:34 #Download of /PFPL/PHILLIP_DataFile_Comm_PIF_20210107.csv succeeded
+02021/01/11 12:08:34 #Download of /PFPL/PHILLIP_DataFile_PIF_20210107.csv succeeded
+02021/01/11 12:08:34 #Download of /PFPL/PHILLIP_Financial_Summary_PIF_20210107.csv succeeded
+02021/01/11 12:08:34 #Download of /PFPL/PHILLIP_Open_Position_PIF_20210107.csv succeeded
+02021/01/11 12:08:34 #EndProcess

@@ -1,0 +1,4 @@
+02021/01/19 11:28:50 #StartProcess
+02021/01/19 11:28:51 #Processing.. ADM_PCIFTP
+02021/01/19 11:28:53 #/ADM/2021-01-18.aaprlmcsv.csv - File not exist
+02021/01/19 11:28:53 #Processing.. CME_F878FTP
