@@ -1,0 +1,188 @@
+02021/06/08 03:53:19 #StartProcess 
+02021/06/08 03:53:19 #Downloading CME EOD Trade file..
+02021/06/08 03:53:21 #Starts - 6/8/2021 3:53:21 PM
+02021/06/08 03:53:21 #Processing.. $CME_EODFTP
+02021/06/08 03:53:25 #Download of /cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip succeeded
+02021/06/08 03:53:30 #Download of /cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip succeeded
+02021/06/08 03:53:30 #Exception occured
+02021/06/08 03:53:30 #The user name or password is incorrect. : '\\10.21.4.88\c$\temp\cmefiles'
+02021/06/08 03:53:30 #Source: System.IO.FileSystem
+02021/06/08 03:53:30 #Inner exception: 
+02021/06/08 03:53:30 #Stack trace:    at System.IO.Enumeration.FileSystemEnumerator`1.CreateDirectoryHandle(String path, Boolean ignoreNotFound)
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.Enumeration.FileSystemEnumerator`1..ctor(String directory, Boolean isNormalized, EnumerationOptions options)
+   at System.IO.Enumeration.FileSystemEnumerable`1..ctor(String directory, FindTransform transform, EnumerationOptions options, Boolean isNormalized)
+   at System.IO.Enumeration.FileSystemEnumerableFactory.FileInfos(String directory, String expression, EnumerationOptions options, Boolean isNormalized)
+   at System.IO.DirectoryInfo.InternalEnumerateInfos(String path, String searchPattern, SearchTarget searchTarget, EnumerationOptions options)
+   at System.IO.DirectoryInfo.GetFiles(String searchPattern, EnumerationOptions enumerationOptions)
+   at System.IO.DirectoryInfo.GetFiles()
+   at PCI.Helpers.WinSCPHelper.UnzipFiletoFolder(DirectoryInfo dirPath, LogHelper log) in C:\Codes\PCI\PCI-ConsoleApp\PCI.Helpers\WinSCPHelper.cs:line 296
+   at ExtractCME_EODTrades.Program.UnzipCME_EODTrades(LogHelper log) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 141
+   at ExtractCME_EODTrades.Program.Main(String[] args) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 35
+02021/06/08 03:55:39 #StartProcess 
+02021/06/08 03:55:39 #Downloading CME EOD Trade file..
+02021/06/08 03:55:39 #Exception occured
+02021/06/08 03:55:39 #Login failed for user 'CMEAuto'.
+02021/06/08 03:55:39 #Source: Core .Net SqlClient Data Provider
+02021/06/08 03:55:39 #Inner exception: 
+02021/06/08 03:55:39 #Stack trace:    at PCI.FileCollector.DAL.AppDAL.GetSFTPAppSettingsByCode(String code) in C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\DAL\AppDAL.cs:line 119
+   at ExtractCME_EODTrades.Program.DownloadCME_EODTrades(LogHelper log) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 67
+   at ExtractCME_EODTrades.Program.Main(String[] args) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 32
+02021/06/08 03:56:00 #StartProcess 
+02021/06/08 03:56:00 #Downloading CME EOD Trade file..
+02021/06/08 03:56:00 #Exception occured
+02021/06/08 03:56:00 #Login failed for user '.\CMEAuto'.
+02021/06/08 03:56:00 #Source: Core .Net SqlClient Data Provider
+02021/06/08 03:56:00 #Inner exception: 
+02021/06/08 03:56:00 #Stack trace:    at PCI.FileCollector.DAL.AppDAL.GetSFTPAppSettingsByCode(String code) in C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\DAL\AppDAL.cs:line 119
+   at ExtractCME_EODTrades.Program.DownloadCME_EODTrades(LogHelper log) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 67
+   at ExtractCME_EODTrades.Program.Main(String[] args) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 32
+02021/06/08 03:56:46 #StartProcess 
+02021/06/08 03:56:46 #Downloading CME EOD Trade file..
+02021/06/08 03:56:47 #Exception occured
+02021/06/08 03:56:47 #Login failed for user 'pciuatapp2\CMEAuto'.
+02021/06/08 03:56:47 #Source: Core .Net SqlClient Data Provider
+02021/06/08 03:56:47 #Inner exception: 
+02021/06/08 03:56:47 #Stack trace:    at PCI.FileCollector.DAL.AppDAL.GetSFTPAppSettingsByCode(String code) in C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\DAL\AppDAL.cs:line 119
+   at ExtractCME_EODTrades.Program.DownloadCME_EODTrades(LogHelper log) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 67
+   at ExtractCME_EODTrades.Program.Main(String[] args) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 32
+02021/06/08 03:57:43 #StartProcess 
+02021/06/08 03:57:43 #Downloading CME EOD Trade file..
+02021/06/08 03:57:44 #Exception occured
+02021/06/08 03:57:44 #Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+02021/06/08 03:57:44 #Source: Core .Net SqlClient Data Provider
+02021/06/08 03:57:44 #Inner exception: 
+02021/06/08 03:57:44 #Stack trace:    at PCI.FileCollector.DAL.AppDAL.GetSFTPAppSettingsByCode(String code) in C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\DAL\AppDAL.cs:line 119
+   at ExtractCME_EODTrades.Program.DownloadCME_EODTrades(LogHelper log) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 67
+   at ExtractCME_EODTrades.Program.Main(String[] args) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 32
+02021/06/08 04:04:44 #StartProcess 
+02021/06/08 04:04:44 #Downloading CME EOD Trade file..
+02021/06/08 04:04:44 #Exception occured
+02021/06/08 04:04:44 #Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+02021/06/08 04:04:44 #Source: Core .Net SqlClient Data Provider
+02021/06/08 04:04:44 #Inner exception: 
+02021/06/08 04:04:44 #Stack trace:    at PCI.FileCollector.DAL.AppDAL.GetSFTPAppSettingsByCode(String code) in C:\Codes\PCI\PCI-ConsoleApp\PCIFileCollector\DAL\AppDAL.cs:line 119
+   at ExtractCME_EODTrades.Program.DownloadCME_EODTrades(LogHelper log) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 67
+   at ExtractCME_EODTrades.Program.Main(String[] args) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 32
+02021/06/08 04:05:03 #StartProcess 
+02021/06/08 04:05:03 #Downloading CME EOD Trade file..
+02021/06/08 04:05:04 #Starts - 6/8/2021 4:05:04 PM
+02021/06/08 04:05:04 #Processing.. $CME_EODFTP
+02021/06/08 04:05:08 #Download of /cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip succeeded
+02021/06/08 04:05:14 #Download of /cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip succeeded
+02021/06/08 04:05:15 #Exception occured
+02021/06/08 04:05:15 #Could not find a part of the path '\\10.21.3.80\c$\temp\cmefiles'.
+02021/06/08 04:05:15 #Source: System.IO.FileSystem
+02021/06/08 04:05:15 #Inner exception: 
+02021/06/08 04:05:15 #Stack trace:    at System.IO.Enumeration.FileSystemEnumerator`1.CreateDirectoryHandle(String path, Boolean ignoreNotFound)
+   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+   at System.IO.Enumeration.FileSystemEnumerator`1..ctor(String directory, Boolean isNormalized, EnumerationOptions options)
+   at System.IO.Enumeration.FileSystemEnumerable`1..ctor(String directory, FindTransform transform, EnumerationOptions options, Boolean isNormalized)
+   at System.IO.Enumeration.FileSystemEnumerableFactory.FileInfos(String directory, String expression, EnumerationOptions options, Boolean isNormalized)
+   at System.IO.DirectoryInfo.InternalEnumerateInfos(String path, String searchPattern, SearchTarget searchTarget, EnumerationOptions options)
+   at System.IO.DirectoryInfo.GetFiles(String searchPattern, EnumerationOptions enumerationOptions)
+   at System.IO.DirectoryInfo.GetFiles()
+   at PCI.Helpers.WinSCPHelper.UnzipFiletoFolder(DirectoryInfo dirPath, LogHelper log) in C:\Codes\PCI\PCI-ConsoleApp\PCI.Helpers\WinSCPHelper.cs:line 296
+   at ExtractCME_EODTrades.Program.UnzipCME_EODTrades(LogHelper log) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 141
+   at ExtractCME_EODTrades.Program.Main(String[] args) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 35
+02021/06/08 04:05:48 #StartProcess 
+02021/06/08 04:05:48 #Downloading CME EOD Trade file..
+02021/06/08 04:05:48 #FIXML-878_NYM_EOD-20210607.xml.zip file is already in local folder.
+02021/06/08 04:05:48 #FIXML-878_CME_EOD-20210607.xml.zip file is already in local folder.
+02021/06/08 04:05:48 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/08 04:05:48 #Extracting FIXML-878_CME_EOD-20210607.xml.zip .. please wait... File size is = 4306556
+02021/06/08 04:06:59 #FIXML-878_CME_EOD-20210607.xml.zip extracted successfully..
+02021/06/08 04:06:59 #Extracting FIXML-878_NYM_EOD-20210607.xml.zip .. please wait... File size is = 428148
+02021/06/08 04:07:05 #FIXML-878_NYM_EOD-20210607.xml.zip extracted successfully..
+02021/06/08 04:07:05 #Inserting CME FIXML Data to PCI DB...  Please wait
+02021/06/08 04:11:03 #Exctracting CME Data for Volume comparison ...  Please wait
+02021/06/08 04:11:05 #Preparing email of extracted data..
+02021/06/08 04:11:07 #Process Done.....Email sent.
+02021/06/08 04:11:07 #EndProcess
+02021/06/08 05:16:26 #StartProcess 
+02021/06/08 05:16:26 #Downloading CME EOD Trade file..
+02021/06/08 05:16:27 #Starts - 6/8/2021 5:16:27 PM
+02021/06/08 05:16:27 #Processing.. $CME_EODFTP
+02021/06/08 05:16:29 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210608.xml.zip - File not exist
+02021/06/08 05:16:29 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210608.xml.zip - File not exist
+02021/06/08 05:16:29 #Preparing email of application heartbeat..
+02021/06/08 05:16:32 #Application Heartbeat.....Email sent.
+02021/06/08 07:19:19 #StartProcess 
+02021/06/08 07:19:19 #Downloading CME EOD Trade file..
+02021/06/08 07:19:20 #Starts - 6/8/2021 7:19:20 PM
+02021/06/08 07:19:20 #Processing.. $CME_EODFTP
+02021/06/08 07:19:25 #Download of /cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip succeeded
+02021/06/08 07:19:29 #Download of /cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip succeeded
+02021/06/08 07:19:30 #Extracting FIXML-878_CME_EOD-20210607.xml.zip .. please wait... File size is = 4306556
+02021/06/08 07:21:18 #StartProcess 
+02021/06/08 07:21:18 #Downloading CME EOD Trade file..
+02021/06/08 07:21:18 #FIXML-878_NYM_EOD-20210607.xml.zip file is already in local folder.
+02021/06/08 07:21:19 #FIXML-878_CME_EOD-20210607.xml.zip file is already in local folder.
+02021/06/08 07:21:19 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/08 07:21:19 #Extracting FIXML-878_CME_EOD-20210607.xml.zip .. please wait... File size is = 4306556
+02021/06/08 07:21:19 #Exception occured
+02021/06/08 07:21:19 #The file '\\10.21.3.80\c$\temp\cme files\FIXML-878_CME_EOD-20210607.xml\FIXML-878_CME_EOD-20210607.xml' already exists.
+02021/06/08 07:21:19 #Source: System.Private.CoreLib
+02021/06/08 07:21:19 #Inner exception: 
+02021/06/08 07:21:19 #Stack trace:    at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean useAsync)
+   at System.IO.Compression.ZipFileExtensions.ExtractToFile(ZipArchiveEntry source, String destinationFileName, Boolean overwrite)
+   at System.IO.Compression.ZipFileExtensions.ExtractRelativeToDirectory(ZipArchiveEntry source, String destinationDirectoryName, Boolean overwrite)
+   at System.IO.Compression.ZipFileExtensions.ExtractToDirectory(ZipArchive source, String destinationDirectoryName, Boolean overwriteFiles)
+   at System.IO.Compression.ZipFile.ExtractToDirectory(String sourceArchiveFileName, String destinationDirectoryName, Encoding entryNameEncoding, Boolean overwriteFiles)
+   at System.IO.Compression.ZipFile.ExtractToDirectory(String sourceArchiveFileName, String destinationDirectoryName)
+   at PCI.Helpers.WinSCPHelper.UnzipFiletoFolder(DirectoryInfo dirPath, LogHelper log) in C:\Codes\PCI\PCI-ConsoleApp\PCI.Helpers\WinSCPHelper.cs:line 304
+   at ExtractCME_EODTrades.Program.UnzipCME_EODTrades(LogHelper log) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 147
+   at ExtractCME_EODTrades.Program.Main(String[] args) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 35
+02021/06/08 07:21:43 #StartProcess 
+02021/06/08 07:21:43 #Downloading CME EOD Trade file..
+02021/06/08 07:21:44 #FIXML-878_NYM_EOD-20210607.xml.zip file is already in local folder.
+02021/06/08 07:21:44 #FIXML-878_CME_EOD-20210607.xml.zip file is already in local folder.
+02021/06/08 07:21:44 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/08 07:21:44 #Extracting FIXML-878_CME_EOD-20210607.xml.zip .. please wait... File size is = 4306556
+02021/06/08 07:22:55 #FIXML-878_CME_EOD-20210607.xml.zip extracted successfully..
+02021/06/08 07:22:55 #Extracting FIXML-878_NYM_EOD-20210607.xml.zip .. please wait... File size is = 428148
+02021/06/08 07:23:01 #FIXML-878_NYM_EOD-20210607.xml.zip extracted successfully..
+02021/06/08 07:23:01 #Inserting CME FIXML Data to PCI DB...  Please wait
+02021/06/08 07:26:56 #Exctracting CME Data for Volume comparison ...  Please wait
+02021/06/08 07:26:59 #Preparing email of extracted data..
+02021/06/08 07:27:01 #Process Done.....Email sent.
+02021/06/08 07:27:01 #EndProcess
+02021/06/08 07:51:16 #StartProcess 
+02021/06/08 08:10:04 #StartProcess 
+02021/06/08 08:10:11 #StartProcess 
+02021/06/08 08:21:37 #StartProcess 
+02021/06/08 08:21:38 #Inserting CME FIXML Data to PCI DB...  Please wait
+02021/06/08 08:25:32 #Exctracting CME Data for Volume comparison ...  Please wait
+02021/06/08 08:25:34 #Preparing email of extracted data..
+02021/06/08 08:25:36 #Process Done.....Email sent.
+02021/06/08 08:25:36 #EndProcess
+02021/06/08 08:35:01 #StartProcess 
+02021/06/08 08:35:01 #Inserting CME FIXML Data to PCI DB...  Please wait
+02021/06/08 08:39:01 #Exctracting CME Data for Volume comparison ...  Please wait
+02021/06/08 08:39:03 #Preparing email of extracted data..
+02021/06/08 08:39:05 #Process Done.....Email sent.
+02021/06/08 08:39:05 #EndProcess
+02021/06/08 08:42:12 #StartProcess 
+02021/06/08 08:42:12 #Inserting CME FIXML Data to PCI DB...  Please wait
+02021/06/08 08:46:09 #Exctracting CME Data for Volume comparison ...  Please wait
+02021/06/08 08:46:11 #Preparing email of extracted data..
+02021/06/08 08:46:12 #Process Done.....Email sent.
+02021/06/08 08:46:12 #EndProcess
+02021/06/08 09:40:34 #StartProcess 
+02021/06/08 09:40:34 #Downloading CME EOD Trade file..
+02021/06/08 09:40:35 #Starts - 6/8/2021 9:40:35 PM
+02021/06/08 09:40:35 #Processing.. $CME_EODFTP
+02021/06/08 09:40:38 #Download of /cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210608.xml.zip succeeded
+02021/06/08 09:40:44 #Download of /cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210608.xml.zip succeeded
+02021/06/08 09:40:44 #Extracting FIXML-878_CME_EOD-20210608.xml.zip .. please wait... File size is = 5149858
+02021/06/08 09:42:12 #FIXML-878_CME_EOD-20210608.xml.zip extracted successfully..
+02021/06/08 09:42:12 #Extracting FIXML-878_NYM_EOD-20210608.xml.zip .. please wait... File size is = 573208
+02021/06/08 09:42:20 #FIXML-878_NYM_EOD-20210608.xml.zip extracted successfully..
+02021/06/08 09:42:20 #Inserting CME FIXML Data to PCI DB...  Please wait
+02021/06/08 09:47:08 #Exctracting CME Data for Volume comparison ...  Please wait
+02021/06/08 09:47:11 #Preparing email of extracted data..
+02021/06/08 09:47:13 #Process Done.....Email sent.
+02021/06/08 09:47:13 #EndProcess

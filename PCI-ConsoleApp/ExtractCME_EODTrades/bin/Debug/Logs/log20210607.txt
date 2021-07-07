@@ -1,0 +1,581 @@
+02021/06/07 03:24:07 #StartProcess
+02021/06/07 03:24:07 #Downloading CME EOD Trade file..
+02021/06/07 03:24:08 #Processing.. $CME_EODFTP
+02021/06/07 03:24:09 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210606.xml.zip - File not exist
+02021/06/07 03:24:09 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210606.xml.zip - File not exist
+02021/06/07 03:24:09 #EndProcess
+02021/06/07 03:28:00 #StartProcess
+02021/06/07 03:28:00 #Downloading CME EOD Trade file..
+02021/06/07 03:29:27 #Processing.. $CME_EODFTP
+02021/06/07 03:30:33 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:30:45 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:31:22 #EndProcess
+02021/06/07 03:37:57 #StartProcess
+02021/06/07 03:37:57 #Starts - 6/7/2021 3:37:57 PM
+02021/06/07 03:37:57 #Downloading CME EOD Trade file..
+02021/06/07 03:38:03 #Processing.. $CME_EODFTP
+02021/06/07 03:38:05 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:38:05 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:38:15 #Starts - 6/7/2021 3:38:15 PM
+02021/06/07 03:38:15 #Downloading CME EOD Trade file..
+02021/06/07 03:38:15 #Processing.. $CME_EODFTP
+02021/06/07 03:38:16 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:38:16 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:38:26 #Starts - 6/7/2021 3:38:26 PM
+02021/06/07 03:38:26 #Downloading CME EOD Trade file..
+02021/06/07 03:38:26 #Processing.. $CME_EODFTP
+02021/06/07 03:38:29 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:38:29 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:38:39 #Starts - 6/7/2021 3:38:39 PM
+02021/06/07 03:38:39 #Downloading CME EOD Trade file..
+02021/06/07 03:38:39 #Processing.. $CME_EODFTP
+02021/06/07 03:38:42 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:38:42 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:38:52 #Starts - 6/7/2021 3:38:52 PM
+02021/06/07 03:38:52 #Downloading CME EOD Trade file..
+02021/06/07 03:38:52 #Processing.. $CME_EODFTP
+02021/06/07 03:38:55 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:38:55 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:39:05 #Starts - 6/7/2021 3:39:05 PM
+02021/06/07 03:39:05 #Downloading CME EOD Trade file..
+02021/06/07 03:39:05 #Processing.. $CME_EODFTP
+02021/06/07 03:39:08 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:39:08 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:41:38 #StartProcess 
+02021/06/07 03:41:38 #Starts - 6/7/2021 3:41:38 PM
+02021/06/07 03:41:38 #Downloading CME EOD Trade file..
+02021/06/07 03:41:39 #Processing.. $CME_EODFTP
+02021/06/07 03:41:42 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:41:42 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:41:52 #Starts - 6/7/2021 3:41:38 PM
+02021/06/07 03:41:52 #Downloading CME EOD Trade file..
+02021/06/07 03:41:52 #Processing.. $CME_EODFTP
+02021/06/07 03:41:54 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:41:54 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:42:04 #Starts - 6/7/2021 3:41:38 PM
+02021/06/07 03:42:04 #Downloading CME EOD Trade file..
+02021/06/07 03:42:04 #Processing.. $CME_EODFTP
+02021/06/07 03:42:06 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:42:06 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:42:16 #Starts - 6/7/2021 3:41:38 PM
+02021/06/07 03:42:16 #Downloading CME EOD Trade file..
+02021/06/07 03:42:16 #Processing.. $CME_EODFTP
+02021/06/07 03:42:18 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:42:18 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:42:28 #Starts - 6/7/2021 3:41:38 PM
+02021/06/07 03:42:28 #Downloading CME EOD Trade file..
+02021/06/07 03:42:28 #Processing.. $CME_EODFTP
+02021/06/07 03:42:30 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:42:30 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:42:40 #Starts - 6/7/2021 3:41:38 PM
+02021/06/07 03:42:40 #Downloading CME EOD Trade file..
+02021/06/07 03:42:40 #Processing.. $CME_EODFTP
+02021/06/07 03:42:43 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:42:43 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:43:07 #StartProcess 
+02021/06/07 03:43:07 #Starts - 6/7/2021 3:43:07 PM
+02021/06/07 03:43:07 #Downloading CME EOD Trade file..
+02021/06/07 03:43:08 #Processing.. $CME_EODFTP
+02021/06/07 03:43:10 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:43:10 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:43:20 #Downloading CME EOD Trade file..
+02021/06/07 03:43:20 #Processing.. $CME_EODFTP
+02021/06/07 03:43:21 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:43:21 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:44:57 #StartProcess 
+02021/06/07 03:44:57 #Starts - 6/7/2021 3:44:57 PM
+02021/06/07 03:44:57 #Downloading CME EOD Trade file..
+02021/06/07 03:44:57 #Processing.. $CME_EODFTP
+02021/06/07 03:44:59 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:44:59 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:45:09 #Downloading CME EOD Trade file..
+02021/06/07 03:45:09 #Processing.. $CME_EODFTP
+02021/06/07 03:45:11 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:45:11 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:45:22 #Downloading CME EOD Trade file..
+02021/06/07 03:45:22 #Processing.. $CME_EODFTP
+02021/06/07 03:45:23 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:45:23 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:45:33 #Downloading CME EOD Trade file..
+02021/06/07 03:45:33 #Processing.. $CME_EODFTP
+02021/06/07 03:45:36 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:45:36 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:45:47 #Downloading CME EOD Trade file..
+02021/06/07 03:45:47 #Processing.. $CME_EODFTP
+02021/06/07 03:45:57 #StartProcess 
+02021/06/07 03:45:57 #Starts - 6/7/2021 3:45:57 PM
+02021/06/07 03:45:57 #Downloading CME EOD Trade file..
+02021/06/07 03:45:58 #Processing.. $CME_EODFTP
+02021/06/07 03:46:00 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:46:00 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:47:00 #Downloading CME EOD Trade file..
+02021/06/07 03:47:00 #Processing.. $CME_EODFTP
+02021/06/07 03:47:01 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:47:01 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:48:01 #Downloading CME EOD Trade file..
+02021/06/07 03:48:01 #Processing.. $CME_EODFTP
+02021/06/07 03:48:02 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:48:02 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:49:03 #Downloading CME EOD Trade file..
+02021/06/07 03:49:03 #Processing.. $CME_EODFTP
+02021/06/07 03:49:09 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:49:09 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:50:09 #Downloading CME EOD Trade file..
+02021/06/07 03:50:10 #Processing.. $CME_EODFTP
+02021/06/07 03:50:12 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:50:12 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:51:12 #Downloading CME EOD Trade file..
+02021/06/07 03:51:12 #Processing.. $CME_EODFTP
+02021/06/07 03:51:14 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:51:14 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:52:14 #Downloading CME EOD Trade file..
+02021/06/07 03:52:14 #Processing.. $CME_EODFTP
+02021/06/07 03:52:16 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:52:16 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:53:17 #Downloading CME EOD Trade file..
+02021/06/07 03:53:17 #Processing.. $CME_EODFTP
+02021/06/07 03:53:18 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:53:18 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:54:19 #Downloading CME EOD Trade file..
+02021/06/07 03:54:19 #Processing.. $CME_EODFTP
+02021/06/07 03:54:21 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:54:21 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:55:21 #Downloading CME EOD Trade file..
+02021/06/07 03:55:21 #Processing.. $CME_EODFTP
+02021/06/07 03:55:23 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:55:23 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:56:23 #Downloading CME EOD Trade file..
+02021/06/07 03:56:23 #Processing.. $CME_EODFTP
+02021/06/07 03:56:26 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:56:26 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:57:26 #Downloading CME EOD Trade file..
+02021/06/07 03:57:26 #Processing.. $CME_EODFTP
+02021/06/07 03:57:28 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 03:57:28 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 04:04:04 #StartProcess 
+02021/06/07 04:04:04 #Starts - 6/7/2021 4:04:04 PM
+02021/06/07 04:04:04 #Downloading CME EOD Trade file..
+02021/06/07 04:04:04 #Processing.. $CME_EODFTP
+02021/06/07 04:17:33 #StartProcess 
+02021/06/07 04:17:33 #Downloading CME EOD Trade file..
+02021/06/07 04:42:34 #StartProcess 
+02021/06/07 04:42:34 #Downloading CME EOD Trade file..
+02021/06/07 04:42:44 #Starts - 6/7/2021 4:42:39 PM
+02021/06/07 04:42:50 #Processing.. $CME_EODFTP
+02021/06/07 04:42:53 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 04:42:53 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 04:44:19 #Processing.. $CME_EODFTP
+02021/06/07 04:44:21 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 04:44:21 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 04:52:14 #StartProcess 
+02021/06/07 04:52:14 #Downloading CME EOD Trade file..
+02021/06/07 04:52:15 #Starts - 6/7/2021 4:52:15 PM
+02021/06/07 04:56:14 #Processing.. $CME_EODFTP
+02021/06/07 04:56:17 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 04:56:17 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 05:06:00 #StartProcess 
+02021/06/07 05:06:01 #Downloading CME EOD Trade file..
+02021/06/07 05:06:01 #Starts - 6/7/2021 5:06:01 PM
+02021/06/07 05:06:04 #Processing.. $CME_EODFTP
+02021/06/07 05:06:06 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 05:06:06 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 05:06:57 #StartProcess 
+02021/06/07 05:06:57 #Downloading CME EOD Trade file..
+02021/06/07 05:06:58 #Starts - 6/7/2021 5:06:58 PM
+02021/06/07 05:07:04 #Processing.. $CME_EODFTP
+02021/06/07 05:07:34 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 05:09:36 #StartProcess 
+02021/06/07 05:09:36 #Downloading CME EOD Trade file..
+02021/06/07 05:13:21 #StartProcess 
+02021/06/07 05:13:21 #Downloading CME EOD Trade file..
+02021/06/07 05:15:33 #StartProcess 
+02021/06/07 05:15:33 #Downloading CME EOD Trade file..
+02021/06/07 05:16:23 #Starts - 6/7/2021 5:16:22 PM
+02021/06/07 05:16:27 #EndProcess
+02021/06/07 05:16:36 #StartProcess 
+02021/06/07 05:16:36 #Downloading CME EOD Trade file..
+02021/06/07 05:17:04 #StartProcess 
+02021/06/07 05:17:04 #Downloading CME EOD Trade file..
+02021/06/07 05:17:35 #Starts - 6/7/2021 5:17:34 PM
+02021/06/07 05:17:53 #StartProcess 
+02021/06/07 05:17:54 #Downloading CME EOD Trade file..
+02021/06/07 05:18:01 #Starts - 6/7/2021 5:18:01 PM
+02021/06/07 05:18:08 #Processing.. $CME_EODFTP
+02021/06/07 05:18:10 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 05:20:26 #StartProcess 
+02021/06/07 05:20:26 #Downloading CME EOD Trade file..
+02021/06/07 05:20:26 #FIXML-878_CME_EOD-20210607.xml.zip file is already in local folder.
+02021/06/07 05:20:26 #Starts - 6/7/2021 5:20:26 PM
+02021/06/07 05:20:26 #Processing.. $CME_EODFTP
+02021/06/07 05:20:28 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 05:23:13 #StartProcess 
+02021/06/07 05:23:13 #Downloading CME EOD Trade file..
+02021/06/07 05:23:14 #FIXML-878_CME_EOD-20210607.xml.zip file is already in local folder.
+02021/06/07 05:23:14 #Starts - 6/7/2021 5:23:14 PM
+02021/06/07 05:23:14 #Processing.. $CME_EODFTP
+02021/06/07 05:23:17 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 05:23:51 #StartProcess 
+02021/06/07 05:23:51 #Downloading CME EOD Trade file..
+02021/06/07 05:23:51 #FIXML-878_CME_EOD-20210607.xml.zip file is already in local folder.
+02021/06/07 05:23:51 #Starts - 6/7/2021 5:23:51 PM
+02021/06/07 05:23:51 #Processing.. $CME_EODFTP
+02021/06/07 05:23:53 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 05:26:05 #StartProcess 
+02021/06/07 05:26:05 #Downloading CME EOD Trade file..
+02021/06/07 05:26:05 #FIXML-878_CME_EOD-20210607.xml.zip file is already in local folder.
+02021/06/07 05:26:05 #Starts - 6/7/2021 5:26:05 PM
+02021/06/07 05:26:05 #Processing.. $CME_EODFTP
+02021/06/07 05:26:09 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 05:26:19 #StartProcess 
+02021/06/07 05:26:19 #Downloading CME EOD Trade file..
+02021/06/07 05:26:19 #FIXML-878_NYM_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 05:26:19 #Starts - 6/7/2021 5:26:19 PM
+02021/06/07 05:26:19 #Processing.. $CME_EODFTP
+02021/06/07 05:26:24 #Download of /cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210604.xml.zip succeeded
+02021/06/07 05:26:49 #StartProcess 
+02021/06/07 05:26:49 #Downloading CME EOD Trade file..
+02021/06/07 05:26:50 #FIXML-878_NYM_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 05:26:50 #Starts - 6/7/2021 5:26:50 PM
+02021/06/07 05:26:50 #Processing.. $CME_EODFTP
+02021/06/07 05:26:53 #Download of /cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210604.xml.zip succeeded
+02021/06/07 05:27:27 #StartProcess 
+02021/06/07 05:27:27 #Downloading CME EOD Trade file..
+02021/06/07 05:27:28 #FIXML-878_NYM_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 05:28:11 #FIXML-878_CME_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 05:28:39 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/07 05:28:51 #EndProcess
+02021/06/07 05:28:59 #StartProcess 
+02021/06/07 05:28:59 #Downloading CME EOD Trade file..
+02021/06/07 05:29:00 #FIXML-878_NYM_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 05:29:04 #Starts - 6/7/2021 5:29:04 PM
+02021/06/07 05:29:04 #Processing.. $CME_EODFTP
+02021/06/07 05:29:08 #Download of /cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210604.xml.zip succeeded
+02021/06/07 05:29:16 #StartProcess 
+02021/06/07 05:29:16 #Downloading CME EOD Trade file..
+02021/06/07 05:29:16 #FIXML-878_NYM_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 05:29:29 #StartProcess 
+02021/06/07 05:29:29 #Downloading CME EOD Trade file..
+02021/06/07 05:29:59 #FIXML-878_NYM_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 05:30:37 #StartProcess 
+02021/06/07 05:30:37 #Downloading CME EOD Trade file..
+02021/06/07 05:30:40 #FIXML-878_NYM_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 05:31:34 #StartProcess 
+02021/06/07 05:31:34 #Downloading CME EOD Trade file..
+02021/06/07 05:31:44 #FIXML-878_NYM_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 05:32:06 #FIXML-878_CME_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 05:32:20 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/07 05:32:24 #EndProcess
+02021/06/07 05:32:29 #StartProcess 
+02021/06/07 05:32:29 #Downloading CME EOD Trade file..
+02021/06/07 05:32:30 #FIXML-878_NYM_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 05:32:30 #FIXML-878_CME_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 05:32:30 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/07 05:32:30 #EndProcess
+02021/06/07 05:32:45 #StartProcess 
+02021/06/07 05:32:45 #Downloading CME EOD Trade file..
+02021/06/07 05:32:45 #FIXML-878_CME_EOD-20210607.xml.zip file is already in local folder.
+02021/06/07 05:32:45 #Starts - 6/7/2021 5:32:45 PM
+02021/06/07 05:32:45 #Processing.. $CME_EODFTP
+02021/06/07 05:32:47 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 05:33:47 #Processing.. $CME_EODFTP
+02021/06/07 05:33:48 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 05:37:44 #StartProcess 
+02021/06/07 05:37:44 #Downloading CME EOD Trade file..
+02021/06/07 05:37:58 #Starts - 6/7/2021 5:37:58 PM
+02021/06/07 05:37:58 #Processing.. $CME_EODFTP
+02021/06/07 05:38:00 #/cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip - File not exist
+02021/06/07 05:38:00 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 05:38:33 #StartProcess 
+02021/06/07 05:38:33 #Downloading CME EOD Trade file..
+02021/06/07 05:39:14 #StartProcess 
+02021/06/07 05:39:14 #Downloading CME EOD Trade file..
+02021/06/07 05:39:45 #StartProcess 
+02021/06/07 05:39:45 #Downloading CME EOD Trade file..
+02021/06/07 05:39:51 #FIXML-878_NYM_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 05:39:55 #FIXML-878_CME_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 05:39:55 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/07 05:39:55 #EndProcess
+02021/06/07 05:55:46 #StartProcess 
+02021/06/07 05:55:46 #Downloading CME EOD Trade file..
+02021/06/07 05:55:52 #FIXML-878_NYM_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 05:55:58 #FIXML-878_CME_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 05:56:02 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/07 05:57:07 #StartProcess 
+02021/06/07 05:57:07 #Downloading CME EOD Trade file..
+02021/06/07 05:57:12 #FIXML-878_NYM_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 05:57:12 #FIXML-878_CME_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 05:57:12 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/07 06:00:30 #StartProcess 
+02021/06/07 06:00:30 #Downloading CME EOD Trade file..
+02021/06/07 06:00:31 #FIXML-878_NYM_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 06:00:31 #FIXML-878_CME_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 06:00:31 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/07 06:02:05 #FIXML-878_CME_EOD-20210604.xml.zip extracted successfully..
+02021/06/07 06:02:24 #FIXML-878_NYM_EOD-20210604.xml.zip extracted successfully..
+02021/06/07 06:05:04 #StartProcess 
+02021/06/07 06:05:04 #Downloading CME EOD Trade file..
+02021/06/07 06:05:05 #FIXML-878_NYM_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 06:05:05 #FIXML-878_CME_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 06:05:05 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/07 06:05:09 #Extracting FIXML-878_CME_EOD-20210604.xml.zip .. please wait... File size is = 4195889
+02021/06/07 06:06:29 #FIXML-878_CME_EOD-20210604.xml.zip extracted successfully..
+02021/06/07 06:06:29 #Extracting FIXML-878_NYM_EOD-20210604.xml.zip .. please wait... File size is = 573725
+02021/06/07 06:06:39 #FIXML-878_NYM_EOD-20210604.xml.zip extracted successfully..
+02021/06/07 06:06:39 #EndProcess
+02021/06/07 06:14:43 #StartProcess 
+02021/06/07 06:14:43 #Downloading CME EOD Trade file..
+02021/06/07 06:14:44 #FIXML-878_NYM_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 06:14:44 #FIXML-878_CME_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 06:14:44 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/07 06:14:44 #Extracting FIXML-878_CME_EOD-20210604.xml.zip .. please wait... File size is = 4195889
+02021/06/07 06:14:44 #Exception occured
+02021/06/07 06:14:44 #The file '\\10.21.3.80\c$\temp\cme files\FIXML-878_CME_EOD-20210604.xml\FIXML-878_CME_EOD-20210604.xml' already exists.
+02021/06/07 06:14:44 #Source: System.Private.CoreLib
+02021/06/07 06:14:44 #Inner exception: 
+02021/06/07 06:14:44 #Stack trace:    at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean useAsync)
+   at System.IO.Compression.ZipFileExtensions.ExtractToFile(ZipArchiveEntry source, String destinationFileName, Boolean overwrite)
+   at System.IO.Compression.ZipFileExtensions.ExtractRelativeToDirectory(ZipArchiveEntry source, String destinationDirectoryName, Boolean overwrite)
+   at System.IO.Compression.ZipFileExtensions.ExtractToDirectory(ZipArchive source, String destinationDirectoryName, Boolean overwriteFiles)
+   at System.IO.Compression.ZipFile.ExtractToDirectory(String sourceArchiveFileName, String destinationDirectoryName, Encoding entryNameEncoding, Boolean overwriteFiles)
+   at System.IO.Compression.ZipFile.ExtractToDirectory(String sourceArchiveFileName, String destinationDirectoryName)
+   at PCI.Helpers.WinSCPHelper.UnzipFiletoFolder(DirectoryInfo dirPath, LogHelper log) in C:\Codes\PCI\PCI-ConsoleApp\PCI.Helpers\WinSCPHelper.cs:line 302
+   at ExtractCME_EODTrades.Program.UnzipCME_EODTrades(LogHelper log) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 137
+   at ExtractCME_EODTrades.Program.Main(String[] args) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 33
+02021/06/07 06:15:35 #StartProcess 
+02021/06/07 06:15:35 #Downloading CME EOD Trade file..
+02021/06/07 06:15:36 #FIXML-878_NYM_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 06:15:36 #FIXML-878_CME_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 06:15:36 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/07 06:15:36 #Extracting FIXML-878_CME_EOD-20210604.xml.zip .. please wait... File size is = 4195889
+02021/06/07 06:16:02 #StartProcess 
+02021/06/07 06:16:02 #Downloading CME EOD Trade file..
+02021/06/07 06:16:03 #FIXML-878_NYM_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 06:16:03 #FIXML-878_CME_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 06:16:03 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/07 06:16:03 #Extracting FIXML-878_CME_EOD-20210604.xml.zip .. please wait... File size is = 4195889
+02021/06/07 06:17:30 #FIXML-878_CME_EOD-20210604.xml.zip extracted successfully..
+02021/06/07 06:17:30 #Extracting FIXML-878_NYM_EOD-20210604.xml.zip .. please wait... File size is = 573725
+02021/06/07 06:17:41 #FIXML-878_NYM_EOD-20210604.xml.zip extracted successfully..
+02021/06/07 06:17:41 #Inserting CME FIXML Data to PCI DB...  Please wait
+02021/06/07 06:17:42 #Exception occured
+02021/06/07 06:17:42 #Cannot bulk load because the file "C:\Temp\CME Files\FIXML-878_CME_EOD-202167.xml\FIXML-878_CME_EOD-202167.xml" could not be opened. Operating system error code 3(The system cannot find the path specified.).
+Cannot bulk load because the file "C:\Temp\CME Files\FIXML-878_NYM_EOD-202167.xml\FIXML-878_NYM_EOD-202167.xml" could not be opened. Operating system error code 3(The system cannot find the path specified.).
+INSERT INTO #XMLwithOpenXML(XMLData, LoadedDateTime)
+					SELECT CONVERT(XML, BulkColumn) AS BulkColumn, GETDATE() 
+					FROM OPENROWSET(BULK 'C:\Temp\CME Files\FIXML-878_NYM_EOD-202167.xml\FIXML-878_NYM_EOD-202167.xml',
+				    SINGLE_BLOB) AS x
+CME 0
+NYM 0
+02021/06/07 06:17:42 #Source: Core .Net SqlClient Data Provider
+02021/06/07 06:17:42 #Inner exception: 
+02021/06/07 06:17:42 #Stack trace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at ExtractCME_EODTrades.DAL.PCIBO_DAL.InsertCME_EODFIXML(LogHelper log, String tradeDate) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\DAL\PCIBO_DAL.cs:line 32
+   at ExtractCME_EODTrades.Controller.CME_EODTrades.ExtractCME_EODTrades(LogHelper log) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Controller\CME_EODTrades.cs:line 23
+   at ExtractCME_EODTrades.Program.ExtractCME_EODTrades(LogHelper log) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 54
+   at ExtractCME_EODTrades.Program.Main(String[] args) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 36
+02021/06/07 06:19:03 #StartProcess 
+02021/06/07 06:19:03 #Inserting CME FIXML Data to PCI DB...  Please wait
+02021/06/07 06:19:04 #Exception occured
+02021/06/07 06:19:04 #Cannot bulk load because the file "C:\Temp\CME Files\FIXML-878_CME_EOD-202167.xml\FIXML-878_CME_EOD-202167.xml" could not be opened. Operating system error code 3(The system cannot find the path specified.).
+Cannot bulk load because the file "C:\Temp\CME Files\FIXML-878_NYM_EOD-202167.xml\FIXML-878_NYM_EOD-202167.xml" could not be opened. Operating system error code 3(The system cannot find the path specified.).
+INSERT INTO #XMLwithOpenXML(XMLData, LoadedDateTime)
+					SELECT CONVERT(XML, BulkColumn) AS BulkColumn, GETDATE() 
+					FROM OPENROWSET(BULK 'C:\Temp\CME Files\FIXML-878_NYM_EOD-202167.xml\FIXML-878_NYM_EOD-202167.xml',
+				    SINGLE_BLOB) AS x
+CME 0
+NYM 0
+02021/06/07 06:19:04 #Source: Core .Net SqlClient Data Provider
+02021/06/07 06:19:04 #Inner exception: 
+02021/06/07 06:19:04 #Stack trace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at ExtractCME_EODTrades.DAL.PCIBO_DAL.InsertCME_EODFIXML(LogHelper log, String tradeDate) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\DAL\PCIBO_DAL.cs:line 32
+   at ExtractCME_EODTrades.Controller.CME_EODTrades.ExtractCME_EODTrades(LogHelper log) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Controller\CME_EODTrades.cs:line 23
+   at ExtractCME_EODTrades.Program.ExtractCME_EODTrades(LogHelper log) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 54
+   at ExtractCME_EODTrades.Program.Main(String[] args) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 36
+02021/06/07 06:19:35 #StartProcess 
+02021/06/07 06:19:35 #Inserting CME FIXML Data to PCI DB...  Please wait
+02021/06/07 06:19:36 #Exception occured
+02021/06/07 06:19:36 #Cannot bulk load because the file "C:\Temp\CME Files\FIXML-878_CME_EOD-202167.xml\FIXML-878_CME_EOD-202167.xml" could not be opened. Operating system error code 3(The system cannot find the path specified.).
+Cannot bulk load because the file "C:\Temp\CME Files\FIXML-878_NYM_EOD-202167.xml\FIXML-878_NYM_EOD-202167.xml" could not be opened. Operating system error code 3(The system cannot find the path specified.).
+INSERT INTO #XMLwithOpenXML(XMLData, LoadedDateTime)
+					SELECT CONVERT(XML, BulkColumn) AS BulkColumn, GETDATE() 
+					FROM OPENROWSET(BULK 'C:\Temp\CME Files\FIXML-878_NYM_EOD-202167.xml\FIXML-878_NYM_EOD-202167.xml',
+				    SINGLE_BLOB) AS x
+CME 0
+NYM 0
+02021/06/07 06:19:36 #Source: Core .Net SqlClient Data Provider
+02021/06/07 06:19:36 #Inner exception: 
+02021/06/07 06:19:36 #Stack trace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at ExtractCME_EODTrades.DAL.PCIBO_DAL.InsertCME_EODFIXML(LogHelper log, String tradeDate) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\DAL\PCIBO_DAL.cs:line 32
+   at ExtractCME_EODTrades.Controller.CME_EODTrades.ExtractCME_EODTrades(LogHelper log) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Controller\CME_EODTrades.cs:line 23
+   at ExtractCME_EODTrades.Program.ExtractCME_EODTrades(LogHelper log) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 54
+   at ExtractCME_EODTrades.Program.Main(String[] args) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 36
+02021/06/07 06:19:45 #StartProcess 
+02021/06/07 06:20:32 #StartProcess 
+02021/06/07 06:22:06 #StartProcess 
+02021/06/07 06:22:23 #Inserting CME FIXML Data to PCI DB...  Please wait
+02021/06/07 06:22:24 #Exception occured
+02021/06/07 06:22:24 #Cannot bulk load because the file "C:\Temp\CME Files\FIXML-878_CME_EOD-20210607.xml\FIXML-878_CME_EOD-20210607.xml" could not be opened. Operating system error code 3(The system cannot find the path specified.).
+Cannot bulk load because the file "C:\Temp\CME Files\FIXML-878_NYM_EOD-20210607.xml\FIXML-878_NYM_EOD-20210607.xml" could not be opened. Operating system error code 3(The system cannot find the path specified.).
+INSERT INTO #XMLwithOpenXML(XMLData, LoadedDateTime)
+					SELECT CONVERT(XML, BulkColumn) AS BulkColumn, GETDATE() 
+					FROM OPENROWSET(BULK 'C:\Temp\CME Files\FIXML-878_NYM_EOD-20210607.xml\FIXML-878_NYM_EOD-20210607.xml',
+				    SINGLE_BLOB) AS x
+CME 0
+NYM 0
+02021/06/07 06:22:24 #Source: Core .Net SqlClient Data Provider
+02021/06/07 06:22:24 #Inner exception: 
+02021/06/07 06:22:24 #Stack trace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at ExtractCME_EODTrades.DAL.PCIBO_DAL.InsertCME_EODFIXML(LogHelper log, String tradeDate) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\DAL\PCIBO_DAL.cs:line 32
+   at ExtractCME_EODTrades.Controller.CME_EODTrades.ExtractCME_EODTrades(LogHelper log) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Controller\CME_EODTrades.cs:line 23
+   at ExtractCME_EODTrades.Program.ExtractCME_EODTrades(LogHelper log) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 54
+   at ExtractCME_EODTrades.Program.Main(String[] args) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 36
+02021/06/07 06:25:29 #StartProcess 
+02021/06/07 06:26:32 #StartProcess 
+02021/06/07 06:26:43 #Inserting CME FIXML Data to PCI DB...  Please wait
+02021/06/07 06:30:46 #Exctracting CME Data for Volume comparison ...  Please wait
+02021/06/07 06:30:52 #Preparing email of extracted data..
+02021/06/07 06:30:54 #Process Done.....Email sent.
+02021/06/07 06:30:54 #EndProcess
+02021/06/07 07:26:49 #StartProcess 
+02021/06/07 07:26:49 #Downloading CME EOD Trade file..
+02021/06/07 07:26:50 #FIXML-878_NYM_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 07:26:50 #FIXML-878_CME_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 07:26:50 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/07 07:26:50 #Extracting FIXML-878_CME_EOD-20210604.xml.zip .. please wait... File size is = 4195889
+02021/06/07 07:49:32 #StartProcess 
+02021/06/07 07:49:32 #Downloading CME EOD Trade file..
+02021/06/07 07:49:33 #FIXML-878_NYM_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 07:49:33 #FIXML-878_CME_EOD-20210604.xml.zip file is already in local folder.
+02021/06/07 07:49:33 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/07 07:49:33 #Extracting FIXML-878_CME_EOD-20210604.xml.zip .. please wait... File size is = 4195889
+02021/06/07 07:50:52 #FIXML-878_CME_EOD-20210604.xml.zip extracted successfully..
+02021/06/07 07:50:52 #Extracting FIXML-878_NYM_EOD-20210604.xml.zip .. please wait... File size is = 573725
+02021/06/07 07:51:01 #FIXML-878_NYM_EOD-20210604.xml.zip extracted successfully..
+02021/06/07 07:51:01 #Inserting CME FIXML Data to PCI DB...  Please wait
+02021/06/07 07:55:05 #Exctracting CME Data for Volume comparison ...  Please wait
+02021/06/07 07:55:07 #Preparing email of extracted data..
+02021/06/07 07:55:09 #Process Done.....Email sent.
+02021/06/07 07:55:09 #EndProcess
+02021/06/07 07:56:57 #StartProcess 
+02021/06/07 07:56:57 #Downloading CME EOD Trade file..
+02021/06/07 07:56:58 #Starts - 6/7/2021 7:56:58 PM
+02021/06/07 07:56:58 #Processing.. $CME_EODFTP
+02021/06/07 07:57:01 #Download of /cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210604.xml.zip succeeded
+02021/06/07 07:58:01 #Processing.. $CME_EODFTP
+02021/06/07 07:58:08 #Download of /cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210604.xml.zip succeeded
+02021/06/07 07:59:50 #StartProcess 
+02021/06/07 07:59:56 #Downloading CME EOD Trade file..
+02021/06/07 08:00:28 #Starts - 6/7/2021 8:00:27 PM
+02021/06/07 08:00:43 #Processing.. $CME_EODFTP
+02021/06/07 08:02:45 #StartProcess 
+02021/06/07 08:02:49 #Downloading CME EOD Trade file..
+02021/06/07 08:02:49 #Starts - 6/7/2021 8:02:49 PM
+02021/06/07 08:02:49 #Processing.. $CME_EODFTP
+02021/06/07 08:02:56 #Download of /cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210604.xml.zip succeeded
+02021/06/07 08:03:24 #StartProcess 
+02021/06/07 08:03:30 #Downloading CME EOD Trade file..
+02021/06/07 08:03:39 #Starts - 6/7/2021 8:03:37 PM
+02021/06/07 08:03:52 #Processing.. $CME_EODFTP
+02021/06/07 08:04:25 #Download of /cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210604.xml.zip succeeded
+02021/06/07 08:05:03 #StartProcess 
+02021/06/07 08:05:08 #Downloading CME EOD Trade file..
+02021/06/07 08:05:09 #Starts - 6/7/2021 8:05:09 PM
+02021/06/07 08:05:09 #Processing.. $CME_EODFTP
+02021/06/07 08:05:16 #Download of /cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210604.xml.zip succeeded
+02021/06/07 08:05:21 #Download of /cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210604.xml.zip succeeded
+02021/06/07 08:06:43 #StartProcess 
+02021/06/07 08:06:43 #Downloading CME EOD Trade file..
+02021/06/07 08:06:43 #Starts - 6/7/2021 8:06:43 PM
+02021/06/07 08:06:43 #Processing.. $CME_EODFTP
+02021/06/07 08:06:50 #Download of /cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210604.xml.zip succeeded
+02021/06/07 08:06:56 #Download of /cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210604.xml.zip succeeded
+02021/06/07 08:06:56 #Extracting FIXML-878_CME_EOD-20210604.xml.zip .. please wait... File size is = 4195889
+02021/06/07 08:08:07 #FIXML-878_CME_EOD-20210604.xml.zip extracted successfully..
+02021/06/07 08:08:07 #Extracting FIXML-878_NYM_EOD-20210604.xml.zip .. please wait... File size is = 573725
+02021/06/07 08:08:17 #FIXML-878_NYM_EOD-20210604.xml.zip extracted successfully..
+02021/06/07 08:08:17 #Inserting CME FIXML Data to PCI DB...  Please wait
+02021/06/07 08:12:14 #Exctracting CME Data for Volume comparison ...  Please wait
+02021/06/07 08:12:17 #Preparing email of extracted data..
+02021/06/07 08:12:19 #Process Done.....Email sent.
+02021/06/07 08:12:19 #EndProcess
+02021/06/07 08:57:43 #StartProcess 
+02021/06/07 08:57:43 #Downloading CME EOD Trade file..
+02021/06/07 08:57:46 #Starts - 6/7/2021 8:57:46 PM
+02021/06/07 08:57:46 #Processing.. $CME_EODFTP
+02021/06/07 08:57:52 #Download of /cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210604.xml.zip succeeded
+02021/06/07 08:57:57 #Download of /cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210604.xml.zip succeeded
+02021/06/07 08:57:57 #Extracting FIXML-878_CME_EOD-20210604.xml.zip .. please wait... File size is = 4195889
+02021/06/07 08:59:10 #FIXML-878_CME_EOD-20210604.xml.zip extracted successfully..
+02021/06/07 08:59:10 #Extracting FIXML-878_NYM_EOD-20210604.xml.zip .. please wait... File size is = 573725
+02021/06/07 08:59:19 #FIXML-878_NYM_EOD-20210604.xml.zip extracted successfully..
+02021/06/07 08:59:19 #Inserting CME FIXML Data to PCI DB...  Please wait
+02021/06/07 09:01:41 #StartProcess 
+02021/06/07 09:01:41 #Downloading CME EOD Trade file..
+02021/06/07 09:01:42 #Starts - 6/7/2021 9:01:42 PM
+02021/06/07 09:01:42 #Processing.. $CME_EODFTP
+02021/06/07 09:01:45 #Download of /cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip succeeded
+02021/06/07 09:01:45 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 09:02:45 #Processing.. $CME_EODFTP
+02021/06/07 09:02:48 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip - File not exist
+02021/06/07 09:03:55 #StartProcess 
+02021/06/07 09:03:56 #Downloading CME EOD Trade file..
+02021/06/07 09:03:57 #FIXML-878_NYM_EOD-20210607.xml.zip file is already in local folder.
+02021/06/07 09:03:57 #Starts - 6/7/2021 9:03:57 PM
+02021/06/07 09:03:57 #Processing.. $CME_EODFTP
+02021/06/07 09:04:06 #Download of /cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip succeeded
+02021/06/07 09:04:07 #Extracting FIXML-878_CME_EOD-20210607.xml.zip .. please wait... File size is = 4306556
+02021/06/07 09:05:17 #FIXML-878_CME_EOD-20210607.xml.zip extracted successfully..
+02021/06/07 09:05:17 #Extracting FIXML-878_NYM_EOD-20210607.xml.zip .. please wait... File size is = 428148
+02021/06/07 09:05:25 #FIXML-878_NYM_EOD-20210607.xml.zip extracted successfully..
+02021/06/07 09:05:25 #Inserting CME FIXML Data to PCI DB...  Please wait
+02021/06/07 09:09:23 #Exctracting CME Data for Volume comparison ...  Please wait
+02021/06/07 09:09:24 #Preparing email of extracted data..
+02021/06/07 09:09:27 #Process Done.....Email sent.
+02021/06/07 09:09:27 #EndProcess

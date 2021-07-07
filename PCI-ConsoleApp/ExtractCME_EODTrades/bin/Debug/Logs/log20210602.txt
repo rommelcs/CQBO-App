@@ -1,0 +1,36 @@
+02021/06/02 02:41:04 #StartProcess
+02021/06/02 02:41:04 #Downloading CME EOD Trade file..
+02021/06/02 02:41:04 #EndProcess
+02021/06/02 03:22:59 #StartProcess
+02021/06/02 03:23:00 #Downloading CME EOD Trade file..
+02021/06/02 03:25:04 #StartProcess
+02021/06/02 03:25:04 #Downloading CME EOD Trade file..
+02021/06/02 03:25:24 #Processing.. $CME_EODFTP
+02021/06/02 03:28:19 #StartProcess
+02021/06/02 03:28:19 #Downloading CME EOD Trade file..
+02021/06/02 03:28:30 #Processing.. $CME_EODFTP
+02021/06/02 03:29:50 #/cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210602.xml.zip - File not exist
+02021/06/02 03:30:15 #StartProcess
+02021/06/02 03:30:15 #Downloading CME EOD Trade file..
+02021/06/02 03:30:22 #Processing.. $CME_EODFTP
+02021/06/02 03:30:30 #Download of /cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210601.xml.zip succeeded
+02021/06/02 03:33:10 #StartProcess
+02021/06/02 03:33:10 #Downloading CME EOD Trade file..
+02021/06/02 03:33:15 #Processing.. $CME_EODFTP
+02021/06/02 03:33:17 #Download of /cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210601.xml.zip succeeded
+02021/06/02 03:33:20 #Download of /cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210601.xml.zip succeeded
+02021/06/02 03:33:26 #EndProcess
+02021/06/02 03:42:49 #StartProcess
+02021/06/02 03:42:49 #Downloading CME EOD Trade file..
+02021/06/02 03:46:10 #StartProcess
+02021/06/02 03:46:10 #Downloading CME EOD Trade file..
+02021/06/02 03:50:53 #StartProcess
+02021/06/02 03:50:53 #Downloading CME EOD Trade file..
+02021/06/02 03:51:00 #Processing.. $CME_EODFTP
+02021/06/02 03:51:29 #Download of /cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210601.xml.zip succeeded
+02021/06/02 03:51:48 #Download of /cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210601.xml.zip succeeded
+02021/06/02 03:51:55 #EndProcess
+02021/06/02 08:50:44 #StartProcess
+02021/06/02 08:55:03 #EndProcess
+02021/06/02 11:47:10 #StartProcess
+02021/06/02 11:47:10 #Downloading CME EOD Trade file..

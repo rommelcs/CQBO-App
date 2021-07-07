@@ -1,0 +1,229 @@
+02021/06/09 07:29:07 #StartProcess 
+02021/06/09 07:29:07 #Downloading CME EOD Trade file..
+02021/06/09 07:29:09 #FIXML-878_NYM_EOD-20210608.xml.zip file is already in local folder.
+02021/06/09 07:29:09 #FIXML-878_CME_EOD-20210608.xml.zip file is already in local folder.
+02021/06/09 07:29:09 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/09 07:29:09 #Extracting FIXML-878_CME_EOD-20210608.xml.zip .. please wait... File size is = 5149858
+02021/06/09 07:29:09 #Exception occured
+02021/06/09 07:29:09 #The file '\\10.21.3.80\c$\temp\cme files\FIXML-878_CME_EOD-20210608.xml\FIXML-878_CME_EOD-20210608.xml' already exists.
+02021/06/09 07:29:09 #Source: System.Private.CoreLib
+02021/06/09 07:29:09 #Inner exception: 
+02021/06/09 07:29:09 #Stack trace:    at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean useAsync)
+   at System.IO.Compression.ZipFileExtensions.ExtractToFile(ZipArchiveEntry source, String destinationFileName, Boolean overwrite)
+   at System.IO.Compression.ZipFileExtensions.ExtractRelativeToDirectory(ZipArchiveEntry source, String destinationDirectoryName, Boolean overwrite)
+   at System.IO.Compression.ZipFileExtensions.ExtractToDirectory(ZipArchive source, String destinationDirectoryName, Boolean overwriteFiles)
+   at System.IO.Compression.ZipFile.ExtractToDirectory(String sourceArchiveFileName, String destinationDirectoryName, Encoding entryNameEncoding, Boolean overwriteFiles)
+   at System.IO.Compression.ZipFile.ExtractToDirectory(String sourceArchiveFileName, String destinationDirectoryName)
+   at PCI.Helpers.WinSCPHelper.UnzipFiletoFolder(DirectoryInfo dirPath, LogHelper log) in C:\Codes\PCI\PCI-ConsoleApp\PCI.Helpers\WinSCPHelper.cs:line 304
+   at ExtractCME_EODTrades.Program.UnzipCME_EODTrades(LogHelper log) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 152
+   at ExtractCME_EODTrades.Program.Main(String[] args) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 36
+02021/06/09 07:30:00 #StartProcess 
+02021/06/09 07:30:00 #Downloading CME EOD Trade file..
+02021/06/09 07:30:01 #FIXML-878_NYM_EOD-20210608.xml.zip file is already in local folder.
+02021/06/09 07:30:01 #FIXML-878_CME_EOD-20210608.xml.zip file is already in local folder.
+02021/06/09 07:30:01 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/09 07:30:27 #Extracting FIXML-878_CME_EOD-20210608.xml.zip .. please wait... File size is = 5149858
+02021/06/09 07:34:19 #StartProcess 
+02021/06/09 07:34:19 #Downloading CME EOD Trade file..
+02021/06/09 07:34:19 #FIXML-878_NYM_EOD-20210608.xml.zip file is already in local folder.
+02021/06/09 07:34:19 #FIXML-878_CME_EOD-20210608.xml.zip file is already in local folder.
+02021/06/09 07:34:19 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/09 07:34:23 #Extracting FIXML-878_CME_EOD-20210608.xml.zip .. please wait... File size is = 5149858
+02021/06/09 07:35:30 #StartProcess 
+02021/06/09 07:35:30 #Downloading CME EOD Trade file..
+02021/06/09 07:35:31 #FIXML-878_NYM_EOD-20210608.xml.zip file is already in local folder.
+02021/06/09 07:35:31 #FIXML-878_CME_EOD-20210608.xml.zip file is already in local folder.
+02021/06/09 07:35:31 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/09 07:35:37 #Extracting FIXML-878_CME_EOD-20210608.xml.zip .. please wait... File size is = 5149858
+02021/06/09 07:37:22 #StartProcess 
+02021/06/09 07:37:22 #Downloading CME EOD Trade file..
+02021/06/09 07:37:22 #FIXML-878_NYM_EOD-20210608.xml.zip file is already in local folder.
+02021/06/09 07:37:22 #FIXML-878_CME_EOD-20210608.xml.zip file is already in local folder.
+02021/06/09 07:37:22 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/09 07:37:25 #Extracting FIXML-878_CME_EOD-20210608.xml.zip .. please wait... File size is = 5149858
+02021/06/09 07:37:26 #FIXML-878_CME_EOD-20210608.xml.zip already exist..skipping
+02021/06/09 07:37:32 #Extracting FIXML-878_NYM_EOD-20210608.xml.zip .. please wait... File size is = 573208
+02021/06/09 07:37:33 #FIXML-878_NYM_EOD-20210608.xml.zip already exist..skipping
+02021/06/09 07:40:52 #StartProcess 
+02021/06/09 07:40:52 #Downloading CME EOD Trade file..
+02021/06/09 07:40:53 #FIXML-878_NYM_EOD-20210608.xml.zip file is already in local folder.
+02021/06/09 07:40:53 #FIXML-878_CME_EOD-20210608.xml.zip file is already in local folder.
+02021/06/09 07:40:53 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/09 07:41:05 #Extracting FIXML-878_CME_EOD-20210608.xml.zip .. please wait... File size is = 5149858
+02021/06/09 07:41:05 #FIXML-878_CME_EOD-20210608.xml.zip already exist..skipping
+02021/06/09 07:41:05 #Extracting FIXML-878_NYM_EOD-20210608.xml.zip .. please wait... File size is = 573208
+02021/06/09 07:41:05 #FIXML-878_NYM_EOD-20210608.xml.zip already exist..skipping
+02021/06/09 07:41:05 #Inserting CME FIXML Data to PCI DB...  Please wait
+02021/06/09 07:45:51 #Exctracting CME Data for Volume comparison ...  Please wait
+02021/06/09 07:45:54 #Preparing email of extracted data..
+02021/06/09 07:45:56 #Process Done.....Email sent.
+02021/06/09 07:45:56 #EndProcess
+02021/06/09 07:49:05 #StartProcess 
+02021/06/09 07:49:05 #Downloading CME EOD Trade file..
+02021/06/09 07:49:05 #FIXML-878_NYM_EOD-20210608.xml.zip file is already in local folder.
+02021/06/09 07:49:05 #FIXML-878_CME_EOD-20210608.xml.zip file is already in local folder.
+02021/06/09 07:49:05 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/09 07:49:06 #Extracting FIXML-878_CME_EOD-20210608.xml.zip .. please wait... File size is = 5149858
+02021/06/09 07:49:06 #FIXML-878_CME_EOD-20210608.xml.zip already exist..skipping
+02021/06/09 07:49:06 #Extracting FIXML-878_NYM_EOD-20210608.xml.zip .. please wait... File size is = 573208
+02021/06/09 07:49:06 #FIXML-878_NYM_EOD-20210608.xml.zip already exist..skipping
+02021/06/09 07:49:06 #Inserting CME FIXML Data to PCI DB...  Please wait
+02021/06/09 07:53:55 #Exctracting CME Data for Volume comparison ...  Please wait
+02021/06/09 07:53:57 #Preparing email of extracted data..
+02021/06/09 07:54:00 #Process Done.....Email sent.
+02021/06/09 07:54:00 #EndProcess
+02021/06/09 07:58:04 #StartProcess 
+02021/06/09 07:58:04 #Downloading CME EOD Trade file..
+02021/06/09 07:58:04 #FIXML-878_NYM_EOD-20210608.xml.zip file is already in local folder.
+02021/06/09 07:58:04 #FIXML-878_CME_EOD-20210608.xml.zip file is already in local folder.
+02021/06/09 07:58:04 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/09 07:58:04 #Extracting FIXML-878_CME_EOD-20210608.xml.zip .. please wait... File size is = 5149858
+02021/06/09 07:58:04 #FIXML-878_CME_EOD-20210608.xml.zip already exist..skipping
+02021/06/09 07:58:04 #Extracting FIXML-878_NYM_EOD-20210608.xml.zip .. please wait... File size is = 573208
+02021/06/09 07:58:04 #FIXML-878_NYM_EOD-20210608.xml.zip already exist..skipping
+02021/06/09 07:58:04 #Inserting CME FIXML Data to PCI DB...  Please wait
+02021/06/09 08:03:02 #Exctracting CME Data for Volume comparison ...  Please wait
+02021/06/09 08:03:05 #Preparing email of extracted data..
+02021/06/09 08:03:08 #Process Done.....Email sent.
+02021/06/09 08:03:08 #EndProcess
+02021/06/09 08:18:31 #StartProcess 
+02021/06/09 08:18:32 #Downloading CME EOD Trade file..
+02021/06/09 08:18:32 #FIXML-878_NYM_EOD-20210608.xml.zip file is already in local folder.
+02021/06/09 08:18:32 #FIXML-878_CME_EOD-20210608.xml.zip file is already in local folder.
+02021/06/09 08:18:32 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/09 08:18:32 #Extracting FIXML-878_CME_EOD-20210608.xml.zip .. please wait... File size is = 5149858
+02021/06/09 08:18:32 #FIXML-878_CME_EOD-20210608.xml.zip already exist..skipping
+02021/06/09 08:18:32 #Extracting FIXML-878_NYM_EOD-20210608.xml.zip .. please wait... File size is = 573208
+02021/06/09 08:18:32 #FIXML-878_NYM_EOD-20210608.xml.zip already exist..skipping
+02021/06/09 08:18:32 #Inserting CME FIXML Data to PCI DB...  Please wait
+02021/06/09 08:18:58 #StartProcess 
+02021/06/09 08:18:58 #Downloading CME EOD Trade file..
+02021/06/09 08:18:58 #FIXML-878_NYM_EOD-20210608.xml.zip file is already in local folder.
+02021/06/09 08:18:58 #FIXML-878_CME_EOD-20210608.xml.zip file is already in local folder.
+02021/06/09 08:18:58 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/09 08:18:58 #Extracting FIXML-878_CME_EOD-20210608.xml.zip .. please wait... File size is = 5149858
+02021/06/09 08:18:58 #FIXML-878_CME_EOD-20210608.xml.zip already exist..skipping
+02021/06/09 08:18:58 #Extracting FIXML-878_NYM_EOD-20210608.xml.zip .. please wait... File size is = 573208
+02021/06/09 08:18:58 #FIXML-878_NYM_EOD-20210608.xml.zip already exist..skipping
+02021/06/09 08:18:58 #Inserting CME FIXML Data to PCI DB...  Please wait
+02021/06/09 08:23:45 #Exctracting CME Data for Volume comparison ...  Please wait
+02021/06/09 08:23:48 #Preparing email of extracted data..
+02021/06/09 08:23:50 #Process Done.....Email sent.
+02021/06/09 08:23:50 #EndProcess
+02021/06/09 08:27:01 #StartProcess 
+02021/06/09 08:27:01 #Downloading CME EOD Trade file..
+02021/06/09 08:27:01 #FIXML-878_NYM_EOD-20210608.xml.zip file is already in local folder.
+02021/06/09 08:27:01 #FIXML-878_CME_EOD-20210608.xml.zip file is already in local folder.
+02021/06/09 08:27:01 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/09 08:27:02 #Extracting FIXML-878_CME_EOD-20210608.xml.zip .. please wait... File size is = 5149858
+02021/06/09 08:27:02 #FIXML-878_CME_EOD-20210608.xml.zip already exist..skipping
+02021/06/09 08:27:02 #Extracting FIXML-878_NYM_EOD-20210608.xml.zip .. please wait... File size is = 573208
+02021/06/09 08:27:02 #FIXML-878_NYM_EOD-20210608.xml.zip already exist..skipping
+02021/06/09 08:27:02 #Inserting CME FIXML Data to PCI DB...  Please wait
+02021/06/09 08:31:52 #Exctracting CME Data for Volume comparison ...  Please wait
+02021/06/09 08:31:55 #Preparing email of extracted data..
+02021/06/09 08:31:57 #Process Done.....Email sent.
+02021/06/09 08:31:57 #EndProcess
+02021/06/09 08:35:46 #StartProcess 
+02021/06/09 08:35:46 #Downloading CME EOD Trade file..
+02021/06/09 08:35:47 #FIXML-878_NYM_EOD-20210608.xml.zip file is already in local folder.
+02021/06/09 08:35:47 #FIXML-878_CME_EOD-20210608.xml.zip file is already in local folder.
+02021/06/09 08:35:47 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/09 08:35:47 #Extracting FIXML-878_CME_EOD-20210608.xml.zip .. please wait... File size is = 5149858
+02021/06/09 08:35:47 #FIXML-878_CME_EOD-20210608.xml.zip already exist..skipping
+02021/06/09 08:35:47 #Extracting FIXML-878_NYM_EOD-20210608.xml.zip .. please wait... File size is = 573208
+02021/06/09 08:35:47 #FIXML-878_NYM_EOD-20210608.xml.zip already exist..skipping
+02021/06/09 08:35:47 #Inserting CME FIXML Data to PCI DB...  Please wait
+02021/06/09 08:40:40 #Exctracting CME Data for Volume comparison ...  Please wait
+02021/06/09 08:40:42 #Preparing email of extracted data..
+02021/06/09 08:40:45 #Process Done.....Email sent.
+02021/06/09 08:40:45 #EndProcess
+02021/06/09 09:40:11 #StartProcess 
+02021/06/09 09:45:54 #StartProcess 
+02021/06/09 09:47:06 #StartProcess 
+02021/06/09 09:51:26 #StartProcess 
+02021/06/09 10:10:22 #StartProcess 
+02021/06/09 10:11:00 #StartProcess 
+02021/06/09 10:36:24 #StartProcess 
+02021/06/09 10:38:14 #StartProcess 
+02021/06/09 10:38:23 #Updating CQ Volume DB...  Please wait
+02021/06/09 10:39:55 #StartProcess 
+02021/06/09 10:40:05 #Updating CQ Volume DB...  Please wait
+02021/06/09 10:40:38 #StartProcess 
+02021/06/09 10:40:59 #StartProcess 
+02021/06/09 10:41:02 #Updating CQ Volume DB...  Please wait
+02021/06/09 10:41:03 #Downloading CME EOD Trade file..
+02021/06/09 10:41:03 #Starts - 6/9/2021 10:41:03 AM
+02021/06/09 10:41:03 #Processing.. $CME_EODFTP
+02021/06/09 10:41:10 #Download of /cme/ftp/878/Outgoing/FIXML-878_NYM_EOD-20210607.xml.zip succeeded
+02021/06/09 10:41:15 #Download of /cme/ftp/878/Outgoing/FIXML-878_CME_EOD-20210607.xml.zip succeeded
+02021/06/09 10:41:15 #Extracting FIXML-878_CME_EOD-20210607.xml.zip .. please wait... File size is = 4306556
+02021/06/09 10:45:51 #StartProcess 
+02021/06/09 10:45:54 #Updating CQ Volume DB...  Please wait
+02021/06/09 10:45:55 #Downloading CME EOD Trade file..
+02021/06/09 10:45:55 #FIXML-878_NYM_EOD-20210607.xml.zip file is already in local folder.
+02021/06/09 10:45:55 #FIXML-878_CME_EOD-20210607.xml.zip file is already in local folder.
+02021/06/09 10:45:55 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/09 10:45:55 #Extracting FIXML-878_CME_EOD-20210607.xml.zip .. please wait... File size is = 4306556
+02021/06/09 10:45:55 #FIXML-878_CME_EOD-20210607.xml.zip already exist..skipping
+02021/06/09 10:45:55 #Extracting FIXML-878_CME_EOD-20210608.xml.zip .. please wait... File size is = 5149858
+02021/06/09 10:45:55 #FIXML-878_CME_EOD-20210608.xml.zip already exist..skipping
+02021/06/09 10:45:55 #Extracting FIXML-878_NYM_EOD-20210607.xml.zip .. please wait... File size is = 428148
+02021/06/09 10:46:01 #FIXML-878_NYM_EOD-20210607.xml.zip extracted successfully..
+02021/06/09 10:46:01 #Extracting FIXML-878_NYM_EOD-20210608.xml.zip .. please wait... File size is = 573208
+02021/06/09 10:46:01 #FIXML-878_NYM_EOD-20210608.xml.zip already exist..skipping
+02021/06/09 10:46:01 #Inserting CME FIXML Data to PCI DB...  Please wait
+02021/06/09 10:46:04 #Exception occured
+02021/06/09 10:46:04 #XML parsing: line 28272, character 324, equal expected
+02021/06/09 10:46:04 #Source: Core .Net SqlClient Data Provider
+02021/06/09 10:46:04 #Inner exception: 
+02021/06/09 10:46:42 #StartProcess 
+02021/06/09 10:46:45 #Updating CQ Volume DB...  Please wait
+02021/06/09 10:46:46 #Downloading CME EOD Trade file..
+02021/06/09 10:46:46 #FIXML-878_NYM_EOD-20210607.xml.zip file is already in local folder.
+02021/06/09 10:46:46 #FIXML-878_CME_EOD-20210607.xml.zip file is already in local folder.
+02021/06/09 10:46:46 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/09 10:46:46 #Extracting FIXML-878_CME_EOD-20210607.xml.zip .. please wait... File size is = 4306556
+02021/06/09 10:47:55 #FIXML-878_CME_EOD-20210607.xml.zip extracted successfully..
+02021/06/09 10:47:55 #Extracting FIXML-878_CME_EOD-20210608.xml.zip .. please wait... File size is = 5149858
+02021/06/09 10:49:16 #FIXML-878_CME_EOD-20210608.xml.zip extracted successfully..
+02021/06/09 10:49:16 #Extracting FIXML-878_NYM_EOD-20210607.xml.zip .. please wait... File size is = 428148
+02021/06/09 10:49:23 #FIXML-878_NYM_EOD-20210607.xml.zip extracted successfully..
+02021/06/09 10:49:23 #Extracting FIXML-878_NYM_EOD-20210608.xml.zip .. please wait... File size is = 573208
+02021/06/09 10:49:32 #FIXML-878_NYM_EOD-20210608.xml.zip extracted successfully..
+02021/06/09 10:49:32 #Inserting CME FIXML Data to PCI DB...  Please wait
+02021/06/09 10:53:29 #Exctracting CME Data for Volume comparison ...  Please wait
+02021/06/09 10:53:31 #Preparing email of extracted data..
+02021/06/09 10:53:33 #Process Done.....Email sent.
+02021/06/09 10:53:33 #EndProcess
+02021/06/09 10:58:54 #StartProcess 
+02021/06/09 10:58:57 #Updating CQ Volume DB...  Please wait
+02021/06/09 10:58:58 #Downloading CME EOD Trade file..
+02021/06/09 10:58:58 #FIXML-878_NYM_EOD-20210607.xml.zip file is already in local folder.
+02021/06/09 10:58:58 #FIXML-878_CME_EOD-20210607.xml.zip file is already in local folder.
+02021/06/09 10:58:58 #No files to be downloaded.  Files might be already existing in local folder.
+02021/06/09 10:58:58 #Extracting FIXML-878_CME_EOD-20210607.xml.zip .. please wait... File size is = 4306556
+02021/06/09 10:58:58 #FIXML-878_CME_EOD-20210607.xml.zip already exist..skipping
+02021/06/09 10:58:58 #Extracting FIXML-878_CME_EOD-20210608.xml.zip .. please wait... File size is = 5149858
+02021/06/09 10:58:58 #FIXML-878_CME_EOD-20210608.xml.zip already exist..skipping
+02021/06/09 10:58:58 #Extracting FIXML-878_NYM_EOD-20210607.xml.zip .. please wait... File size is = 428148
+02021/06/09 10:58:58 #FIXML-878_NYM_EOD-20210607.xml.zip already exist..skipping
+02021/06/09 10:58:58 #Extracting FIXML-878_NYM_EOD-20210608.xml.zip .. please wait... File size is = 573208
+02021/06/09 10:58:58 #FIXML-878_NYM_EOD-20210608.xml.zip already exist..skipping
+02021/06/09 10:58:58 #Inserting CME FIXML Data to PCI DB...  Please wait
+02021/06/09 11:03:14 #Exctracting CME Data for Volume comparison ...  Please wait
+02021/06/09 11:03:17 #Preparing email of extracted data..
+02021/06/09 11:03:19 #Process Done.....Email sent.
+02021/06/09 11:03:19 #EndProcess
+02021/06/09 11:37:29 #StartProcess 
+02021/06/09 11:37:31 #Exception occured
+02021/06/09 11:37:31 #Object reference not set to an instance of an object.
+02021/06/09 11:37:31 #Source: ExtractCME_EODTrades
+02021/06/09 11:37:31 #Inner exception: 
+02021/06/09 11:37:31 #Stack trace:    at ExtractCME_EODTrades.Controller.CME_EODTrades.GetCQAPI_EODVolume(LogHelper log) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Controller\CME_EODTrades.cs:line 154
+   at ExtractCME_EODTrades.Program.DownloadCQAPI_EODTradeVolume(LogHelper log) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 69
+   at ExtractCME_EODTrades.Program.Main(String[] args) in C:\Codes\PCI\PCI-ConsoleApp\ExtractCME_EODTrades\Program.cs:line 32
+02021/06/09 11:37:51 #StartProcess 

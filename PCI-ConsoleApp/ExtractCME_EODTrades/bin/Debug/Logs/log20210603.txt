@@ -1,0 +1,4 @@
+02021/06/03 08:29:06 #StartProcess
+02021/06/03 08:29:06 #Downloading CME EOD Trade file..
+02021/06/03 09:05:05 #StartProcess
+02021/06/03 09:10:42 #EndProcess
